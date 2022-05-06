@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports 1 HD
- http://103.132.16.98:8080/starsports1hd/mpegts
+http://103.132.16.98:8080/starsports1hd/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports 2 HD
 http://103.132.16.98:8080/starsports2hd/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Star Sports Select 1
@@ -23,6 +23,14 @@ http://103.132.16.98:8080/starmoviesselecthd/mpegts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Gazi TV
+http://103.124.110.34:8082/gtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",T Sports
+http://103.124.110.34:8082/tsp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",Willow Cricket
+http://42.201.253.14:4090/play/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Sports",Star Sports Tamil
+http://195.2.71.8:8081/live/tamil/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV 
 https://snehtv-may-01.in1.bitmana.io/snehapi/snxtgo/ts-snxt/32138.m3u8
@@ -217,24 +225,24 @@ http://node98677-env-4813312.in1.bitmana.io//live.php?c=Puthiya_Thalimurai&q=120
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-zeetamil
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-zeetamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vendhar TV
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-306
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-306
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-makkaltv
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-makkaltv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-ddpodhigai
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-ddpodhigai
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-224
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Flix HD
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-channel_2105335046
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-channel_2105335046
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-channel_2105335046
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Zee Cinema HD
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-zeecinemahd
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",&Pictures HD
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-tvpictureshd
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News
-https://max881155.000webhostapp.com/zee5/techzee.php?c=0-9-203
+https://max881155.000webhostapp.com/zee5/techzee1.php?c=0-9-203
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Kalaignar
@@ -1211,6 +1219,8 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 http://182.50.65.213:8888/udp/239.239.0.17:3001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies HD Link 2 Buffer 
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies HD Link 3
+http://103.167.190.250/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies HD
 http://103.153.39.36:8000/play/a00v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Prive HD
