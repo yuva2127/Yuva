@@ -309,6 +309,51 @@ http://node101473-ishanjiotv.in1.bitmana.io/live.php?c=Kalaignar_Seithigal_&q=12
 http://node101473-ishanjiotv.in1.bitmana.io/live.php?c=Puthiya_Thalimurai&q=1200&e=Ishan.m3u8
 
 
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-zeetamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vendhar TV
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-makkaltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Flix HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Zee Cinema HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",&Pictures HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News
+https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-203
+
+
+
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-zeetamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vendhar TV
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-makkaltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Flix HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Flix HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Zee Cinema HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",&Pictures HD
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News
+https://maxpro-live-new.000webhostapp.com/zee-maxpro1.php?c=0-9-203
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Kalaignar
