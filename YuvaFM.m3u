@@ -33,23 +33,21 @@ http://212.83.138.48:8251/stream.mp3
 http://node-32.zeno.fm/kzd2e3tx24zuv
 #EXTINF:-1 group-title="Tamil FM",Kodai FM
 http://node-30.zeno.fm/urvp16bqnd0uv
-#EXTINF:-1 group-title="Tamil FM",Ilayaraja Lite Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b2637fa2c96/60b2637fa2c96.ts
-#EXTINF:-1 group-title="Tamil FM",SBP RADIO Link 1
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b266de4cf71/60b266de4cf71.ts
-#EXTINF:-1 group-title="Tamil FM",SBP RADIO Link 2
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b2670ccd6eb/60b2670ccd6eb.ts
-#EXTINF:-1 group-title="Tamil FM",YSR Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b2671df22f0/60b2671df22f0.ts
-#EXTINF:-1 group-title="Tamil FM",Puthu Padal
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b26747b79f1/60b26747b79f1.ts
-#EXTINF:-1 group-title="Tamil FM",Deva Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b2679b55484/60b2679b55484.ts
-#EXTINF:-1 group-title="Tamil FM",Mohan Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b267d50fe11/60b267d50fe11.ts
-#EXTINF:-1 group-title="Tamil FM",Isaigani Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b267fcebf44/60b267fcebf44.ts
-#EXTINF:-1 group-title="Tamil FM",Janaki Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b2682b56c7d/60b2682b56c7d.ts
-#EXTINF:-1 group-title="Tamil FM",Chitra Radio
-https://garuda-cdn.xyz/live/60c355026a422/12345/60b2684ebf99f/60b2684ebf99f.ts
+#EXTINF:-1 group-title="Tamil FM",Air Coimbatore 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
+#EXTINF:-1 group-title="Tamil FM",Air Tamil 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/chunklist.m3u8
+#EXTINF:-1 group-title="Tamil FM",Arul vakku FM
+https://stream.arulvakku.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Tamil FM",DImman Radio
+https://psrlive1.listenon.in/imman?station=immanradio 
+#EXTINF:-1 group-title="Tamil FM",Ajith Radio
+https://psrlive1.listenon.in/ajith?station=ajithradio 
+#EXTINF:-1 group-title="Tamil FM",Anirudh Radio
+https://psrlive1.listenon.in/anirud?station=anirudhradio 
+#EXTINF:-1 group-title="Tamil FM",SPB Radio
+https://psrlive1.listenon.in/spb?station=spbradio 
+#EXTINF:-1 group-title="Tamil FM",Yuvan Radio
+https://psrlive1.listenon.in/ysr?station=ysrradio 
+#EXTINF:-1 group-title="Tamil FM",Harris Radio
+https://psrlive1.listenon.in/hjr?station=harrishjeyarajradio 
