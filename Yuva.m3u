@@ -39,22 +39,187 @@ http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV Link 3
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV
 http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV Link 2
 http://51.79.158.179:1935/live/sanatv2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV Link 3
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Krishna TV
 http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="red48012" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNT.png",TAMIL SUN TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48012
+#EXTINF:-1 tvg-id="red48013" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNMSC.png",TAMIL SUN MUSIC HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48013
+#EXTINF:-1 tvg-id="red48014" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tml12.png",TAMIL KTV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48014
+#EXTINF:-1 tvg-id="red48006" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3VJAYHD.png",TAMIL STAR VIJAY HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48006
+#EXTINF:-1 tvg-id="red48007" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMIRVJAY.png",TAMIL VIJAY SUPER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48007
+#EXTINF:-1 tvg-id="red48008" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48008
+#EXTINF:-1 tvg-id="red48044" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJMUSX1.png",TAMIL RAJ MUSIX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48044
+#EXTINF:-1 tvg-id="red48069" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA MAX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48069
+#EXTINF:-1 tvg-id="red48021" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNLFEEE.png",TAMIL SUN LIFE TAMIL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48021
+#EXTINF:-1 tvg-id="red51264" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KTV FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51264
+#EXTINF:-1 tvg-id="red51248" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",VIJAY FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51248
+#EXTINF:-1 tvg-id="red51252" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",ZEE TAMIL FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51252
+#EXTINF:-1 tvg-id="red51198" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR ISAI ARUVI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51198
+#EXTINF:-1 tvg-id="red51183" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",MK TUNES
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51183
+#EXTINF:-1 tvg-id="red51197" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR MURASU
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51197
+#EXTINF:-1 tvg-id="red51195" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR SIRIPPOLI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51195
+#EXTINF:-1 tvg-id="red51220" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",ADITHYA TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51220
+#EXTINF:-1 tvg-id="red51194" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51194
+#EXTINF:-1 tvg-id="red51196" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR SEITHIGAL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51196
+#EXTINF:-1 tvg-id="red51199" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR CHITHIRAM
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51199
+#EXTINF:-1 tvg-id="red48010" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48010
+#EXTINF:-1 tvg-id="red48037" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SATMIYAMMMM.png",TAMIL SATHIYAM TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48037
+#EXTINF:-1 tvg-id="red48038" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAKKALTV.png",TAMIL MAKKAL TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48038
+#EXTINF:-1 tvg-id="red48039" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJJJJ.png",TAMIL RAJ DIGITAL PLUS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48039
+#EXTINF:-1 tvg-id="red48040" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/polimer.png",TAMIL POLIMER TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48040
+#EXTINF:-1 tvg-id="red48052" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tamıljmovie.png",TAMIL J MOVIES
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48052
+#EXTINF:-1 tvg-id="red48020" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png",TAMIL COLORS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48020
+#EXTINF:-1 tvg-id="red48022" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSNNEWS.png",TAMIL SUN NEWS TAMIL 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48022
+#EXTINF:-1 tvg-id="red48023" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA PLUS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48023
+#EXTINF:-1 tvg-id="red48032" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48032
+#EXTINF:-1 tvg-id="red48055" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/CAPTANNNN.png",TAMIL CAPTAIN NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48055
+#EXTINF:-1 tvg-id="red48056" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/03-captain-tv-logo66-300.png",TAMIL CAPTAIN TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48056
+#EXTINF:-1 tvg-id="red48060" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAYAMTV.png",TAMIL IMAYAM TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48060
+#EXTINF:-1 tvg-id="red48061" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/madhaaatv.png",TAMIL MADHA TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48061
+#EXTINF:-1 tvg-id="red48063" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILMOON.png",TAMIL MOON TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48063
+#EXTINF:-1 tvg-id="red48064" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILANNNNTV.png",TAMIL TAMILAN TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48064
+#EXTINF:-1 tvg-id="red51261" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",TAMIL COLORS FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51261
+#EXTINF:-1 tvg-id="red48009" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png",TAMIL NAT GEO WILD TAMIL HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48009
+#EXTINF:-1 tvg-id="red48011" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/dutch/discoveryworld.png",TAMIL DISCOVERY WORLD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48011
+#EXTINF:-1 tvg-id="red48016" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png",TAMIL NAT GEO TAMIL HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48016
+#EXTINF:-1 tvg-id="red48017" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png",TAMIL SONY BBC EARTH HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48017
+#EXTINF:-1 tvg-id="red48018" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png",TAMIL HISTORY TV 18 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48018
+#EXTINF:-1 tvg-id="red48019" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/russian/foxlife.png",TAMIL FOX LIFE HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48019
+#EXTINF:-1 tvg-id="red51231" group-title="English Movies" tvg-logo="http://files.rednetcontent.com",SONY PIX FHD 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51231
+#EXTINF:-1 tvg-id="red47859" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3MOVİESHD.png",ENGLISH STAR MOVIES HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=47859
+#EXTINF:-1 tvg-id="red47861" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3-Movies-Select-HD_8.png",ENGLISH STAR MOVIES SELECT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=47861
+#EXTINF:-1 tvg-id="red51271" group-title="English Movies" tvg-logo="http://files.rednetcontent.com",STAR MOVIES FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=51271
+#EXTINF:-1 tvg-id="red48142" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sony1231.pn,HINDI SONY PIX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48142
+#EXTINF:-1 tvg-id="red48160" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png",HINDI MOVIES NOW HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48160
+#EXTINF:-1 tvg-id="red48163" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png",HINDI MN PLUS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=48163
+#EXTINF:-1 tvg-id="red47863" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Fox_life_hd1.png",ENGLISH FOX LIFE HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=47863
+#EXTINF:-1 tvg-id="red47858" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3WORLDS.png",ENGLISH STAR WORLD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=47858
+#EXTINF:-1 tvg-id="red47860" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3worldpremer.png",ENGLISH STAR WORLD PREMIER HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7x.php?id=47860
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1140,171 +1305,6 @@ https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-tvpictureshd
 https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-203
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="red48142" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sony1231.pn,HINDI SONY PIX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48142
-#EXTINF:-1 tvg-id="red48160" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png",HINDI MOVIES NOW HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48160
-#EXTINF:-1 tvg-id="red48163" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png",HINDI MN PLUS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48163
-#EXTINF:-1 tvg-id="red48006" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3VJAYHD.png",TAMIL STAR VIJAY HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48006
-#EXTINF:-1 tvg-id="red48007" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMIRVJAY.png",TAMIL VIJAY SUPER
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48007
-#EXTINF:-1 tvg-id="red48008" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48008
-#EXTINF:-1 tvg-id="red48009" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png",TAMIL NAT GEO WILD TAMIL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48009
-#EXTINF:-1 tvg-id="red48010" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48010
-#EXTINF:-1 tvg-id="red48011" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/dutch/discoveryworld.png",TAMIL DISCOVERY WORLD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48011
-#EXTINF:-1 tvg-id="red48012" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNT.png",TAMIL SUN TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48012
-#EXTINF:-1 tvg-id="red48013" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNMSC.png",TAMIL SUN MUSIC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48013
-#EXTINF:-1 tvg-id="red48014" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tml12.png",TAMIL KTV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48014
-#EXTINF:-1 tvg-id="red48016" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png",TAMIL NAT GEO TAMIL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48016
-#EXTINF:-1 tvg-id="red48017" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png",TAMIL SONY BBC EARTH HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48017
-#EXTINF:-1 tvg-id="red48018" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png",TAMIL HISTORY TV 18 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48018
-#EXTINF:-1 tvg-id="red48019" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/russian/foxlife.png",TAMIL FOX LIFE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48019
-#EXTINF:-1 tvg-id="red48020" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png",TAMIL COLORS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48020
-#EXTINF:-1 tvg-id="red48021" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNLFEEE.png",TAMIL SUN LIFE TAMIL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48021
-#EXTINF:-1 tvg-id="red48022" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSNNEWS.png",TAMIL SUN NEWS TAMIL 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48022
-#EXTINF:-1 tvg-id="red48023" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA PLUS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48023
-#EXTINF:-1 tvg-id="red48032" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48032
-#EXTINF:-1 tvg-id="red48037" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SATMIYAMMMM.png",TAMIL SATHIYAM TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48037
-#EXTINF:-1 tvg-id="red48038" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAKKALTV.png",TAMIL MAKKAL TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48038
-#EXTINF:-1 tvg-id="red48039" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJJJJ.png",TAMIL RAJ DIGITAL PLUS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48039
-#EXTINF:-1 tvg-id="red48040" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/polimer.png",TAMIL POLIMER TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48040
-#EXTINF:-1 tvg-id="red48044" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJMUSX1.png",TAMIL RAJ MUSIX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48044
-#EXTINF:-1 tvg-id="red48052" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tamıljmovie.png",TAMIL J MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=4805
-#EXTINF:-1 tvg-id="red48055" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/CAPTANNNN.png",TAMIL CAPTAIN NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48055
-#EXTINF:-1 tvg-id="red48056" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/03-captain-tv-logo66-300.png",TAMIL CAPTAIN TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48056
-#EXTINF:-1 tvg-id="red48060" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAYAMTV.png",TAMIL IMAYAM TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48060
-#EXTINF:-1 tvg-id="red48061" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/madhaaatv.png",TAMIL MADHA TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48061
-#EXTINF:-1 tvg-id="red48063" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILMOON.png",TAMIL MOON TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48063
-#EXTINF:-1 tvg-id="red48064" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILANNNNTV.png",TAMIL TAMILAN TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48064
-#EXTINF:-1 tvg-id="red48069" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA MAX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48069
-#EXTINF:-1 tvg-id="red51261" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",TAMIL COLORS FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51261
-#EXTINF:-1 tvg-id="red51264" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KTV FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51264
-#EXTINF:-1 tvg-id="red51248" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",VIJAY FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51248
-#EXTINF:-1 tvg-id="red51252" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",ZEE TAMIL FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51252
-#EXTINF:-1 tvg-id="red51231" group-title="English Movies" tvg-logo="http://files.rednetcontent.com",SONY PIX FHD 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51231
-#EXTINF:-1 tvg-id="red51194" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51194
-#EXTINF:-1 tvg-id="red51198" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR ISAI ARUVI
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51198
-#EXTINF:-1 tvg-id="red51197" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR MURASU
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51197
-#EXTINF:-1 tvg-id="red51196" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR SEITHIGAL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51196
-#EXTINF:-1 tvg-id="red51183" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",MK TUNES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51183
-#EXTINF:-1 tvg-id="red51195" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR SIRIPPOLI
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51195
-#EXTINF:-1 tvg-id="red51199" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR CHITHIRAM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51199
-#EXTINF:-1 tvg-id="red51220" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",ADITHYA TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51220
-#EXTINF:-1 tvg-id="red47858" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3WORLDS.png",ENGLISH STAR WORLD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47858
-#EXTINF:-1 tvg-id="red47859" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3MOVİESHD.png",ENGLISH STAR MOVIES HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47859
-#EXTINF:-1 tvg-id="red47860" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3worldpremer.png",ENGLISH STAR WORLD PREMIER HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47860
-#EXTINF:-1 tvg-id="red47861" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3-Movies-Select-HD_8.png",ENGLISH STAR MOVIES SELECT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47861
-#EXTINF:-1 tvg-id="red47863" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Fox_life_hd1.png",ENGLISH FOX LIFE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47863
-#EXTINF:-1 tvg-id="red51271" group-title="English Movies" tvg-logo="http://files.rednetcontent.com",STAR MOVIES FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51271
 
 
 
