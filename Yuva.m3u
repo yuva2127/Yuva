@@ -51,160 +51,160 @@ http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
 
 #EXTINF:-1 tvg-id="red48012" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNT.png",TAMIL SUN TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48012
+http://ranapk.cf/api/REDx.m3u8?id=48012
 #EXTINF:-1 tvg-id="red48013" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNMSC.png",TAMIL SUN MUSIC HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48013
+http://ranapk.cf/api/REDx.m3u8?id=48013
 #EXTINF:-1 tvg-id="red48014" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tml12.png",TAMIL KTV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48014
+http://ranapk.cf/api/REDx.m3u8?id=48014
 #EXTINF:-1 tvg-id="red51264" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tml12.png",TAMIL KTV FHD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51264
+http://ranapk.cf/api/REDx.m3u8?id=51264
 #EXTINF:-1 tvg-id="red48006" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3VJAYHD.png",TAMIL STAR VIJAY HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48006
+http://ranapk.cf/api/REDx.m3u8?id=48006
 #EXTINF:-1 tvg-id="red51248" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3VJAYHD.png",TAMIL STAR VIJAY FHD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51248
+http://ranapk.cf/api/REDx.m3u8?id=51248
 #EXTINF:-1 tvg-id="red48008" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48008
+http://ranapk.cf/api/REDx.m3u8?id=48008
 #EXTINF:-1 tvg-id="red51252" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL FHD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51252
+http://ranapk.cf/api/REDx.m3u8?id=51252
 #EXTINF:-1 tvg-id="red48069" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA MAX
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48069
+http://ranapk.cf/api/REDx.m3u8?id=48069
 #EXTINF:-1 tvg-id="red51198" group-title="Tamil Regular" tvg-logo="",KALAIGNAR ISAI ARUVI
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51198
+http://ranapk.cf/api/REDx.m3u8?id=51198
 #EXTINF:-1 tvg-id="red51183" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",MK TUNES
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51183
+http://ranapk.cf/api/REDx.m3u8?id=51183
 #EXTINF:-1 tvg-id="red48021" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSUNLFEEE.png",TAMIL SUN LIFE TAMIL
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48021
+http://ranapk.cf/api/REDx.m3u8?id=48021
 #EXTINF:-1 tvg-id="red48007" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMIRVJAY.png",TAMIL VIJAY SUPER
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48007
+http://ranapk.cf/api/REDx.m3u8?id=48007
 #EXTINF:-1 tvg-id="red51197" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR MURASU
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51197
+http://ranapk.cf/api/REDx.m3u8?id=51197
 #EXTINF:-1 tvg-id="red51195" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR SIRIPPOLI
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51195
+http://ranapk.cf/api/REDx.m3u8?id=51195
 #EXTINF:-1 tvg-id="red51220" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",ADITHYA TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51220
+http://ranapk.cf/api/REDx.m3u8?id=51220
 #EXTINF:-1 tvg-id="red51194" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51194
+http://ranapk.cf/api/REDx.m3u8?id=51194
 #EXTINF:-1 tvg-id="red51196" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR SEITHIGAL
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51196
+http://ranapk.cf/api/REDx.m3u8?id=51196
 #EXTINF:-1 tvg-id="red51199" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",KALAIGNAR CHITHIRAM
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51199
+http://ranapk.cf/api/REDx.m3u8?id=51199
 #EXTINF:-1 tvg-id="red48010" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48010
+http://ranapk.cf/api/REDx.m3u8?id=48010
 #EXTINF:-1 tvg-id="red48037" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SATMIYAMMMM.png",TAMIL SATHIYAM TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48037
+http://ranapk.cf/api/REDx.m3u8?id=48037
 #EXTINF:-1 tvg-id="red48038" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAKKALTV.png",TAMIL MAKKAL TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48038
+http://ranapk.cf/api/REDx.m3u8?id=48038
 #EXTINF:-1 tvg-id="red48039" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJJJJ.png",TAMIL RAJ DIGITAL PLUS
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48039
+http://ranapk.cf/api/REDx.m3u8?id=48039
 #EXTINF:-1 tvg-id="red48040" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/polimer.png",TAMIL POLIMER TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48040
+http://ranapk.cf/api/REDx.m3u8?id=48040
 #EXTINF:-1 tvg-id="red48052" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tamıljmovie.png",TAMIL J MOVIES
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48052
+http://ranapk.cf/api/REDx.m3u8?id=48052
 #EXTINF:-1 tvg-id="red48020" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png",TAMIL COLORS HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48020
+http://ranapk.cf/api/REDx.m3u8?id=48020
 #EXTINF:-1 tvg-id="red48022" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILSNNEWS.png",TAMIL SUN NEWS TAMIL 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48022
+http://ranapk.cf/api/REDx.m3u8?id=48022
 #EXTINF:-1 tvg-id="red48023" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png",TAMIL JAYA PLUS
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48023
+http://ranapk.cf/api/REDx.m3u8?id=48023
 #EXTINF:-1 tvg-id="red48032" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png",TAMIL ZEE TAMIL SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48032
+http://ranapk.cf/api/REDx.m3u8?id=48032
 #EXTINF:-1 tvg-id="red48055" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/CAPTANNNN.png",TAMIL CAPTAIN NEWS
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48055
+http://ranapk.cf/api/REDx.m3u8?id=48055
 #EXTINF:-1 tvg-id="red48056" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/03-captain-tv-logo66-300.png",TAMIL CAPTAIN TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48056
+http://ranapk.cf/api/REDx.m3u8?id=48056
 #EXTINF:-1 tvg-id="red48060" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAYAMTV.png",TAMIL IMAYAM TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48060
+http://ranapk.cf/api/REDx.m3u8?id=48060
 #EXTINF:-1 tvg-id="red48061" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/madhaaatv.png",TAMIL MADHA TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48061
+http://ranapk.cf/api/REDx.m3u8?id=48061
 #EXTINF:-1 tvg-id="red48063" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILMOON.png",TAMIL MOON TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48063
+http://ranapk.cf/api/REDx.m3u8?id=48063
 #EXTINF:-1 tvg-id="red48064" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILANNNNTV.png",TAMIL TAMILAN TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48064
+http://ranapk.cf/api/REDx.m3u8?id=48064
 #EXTINF:-1 tvg-id="red51261" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com",TAMIL COLORS FHD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51261
+http://ranapk.cf/api/REDx.m3u8?id=51261
 #EXTINF:-1 tvg-id="red48009" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png",TAMIL NAT GEO WILD TAMIL HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48009
+http://ranapk.cf/api/REDx.m3u8?id=48009
 #EXTINF:-1 tvg-id="red48011" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/dutch/discoveryworld.png",TAMIL DISCOVERY WORLD HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48011
+http://ranapk.cf/api/REDx.m3u8?id=48011
 #EXTINF:-1 tvg-id="red48016" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png",TAMIL NAT GEO TAMIL HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48016
+http://ranapk.cf/api/REDx.m3u8?id=48016
 #EXTINF:-1 tvg-id="red48017" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png",TAMIL SONY BBC EARTH HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48017
+http://ranapk.cf/api/REDx.m3u8?id=48017
 #EXTINF:-1 tvg-id="red48018" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png",TAMIL HISTORY TV 18 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48018
+http://ranapk.cf/api/REDx.m3u8?id=48018
 #EXTINF:-1 tvg-id="red48019" group-title="Tamil Regular" tvg-logo="http://files.rednetcontent.com/chlogo2/russian/foxlife.png",TAMIL FOX LIFE HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48019
+http://ranapk.cf/api/REDx.m3u8?id=48019
 #EXTINF:-1 tvg-id="red51231" group-title="English Movies" tvg-logo="http://files.rednetcontent.com",SONY PIX FHD 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51231
+http://ranapk.cf/api/REDx.m3u8?id=51231
 #EXTINF:-1 tvg-id="red47859" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3MOVİESHD.png",ENGLISH STAR MOVIES HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47859
+http://ranapk.cf/api/REDx.m3u8?id=47859
 #EXTINF:-1 tvg-id="red47861" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3-Movies-Select-HD_8.png",ENGLISH STAR MOVIES SELECT HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47861
+http://ranapk.cf/api/REDx.m3u8?id=47861
 #EXTINF:-1 tvg-id="red51271" group-title="English Movies" tvg-logo="http://files.rednetcontent.com",STAR MOVIES FHD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=51271
+http://ranapk.cf/api/REDx.m3u8?id=51271
 #EXTINF:-1 tvg-id="red48142" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sony1231.pn,HINDI SONY PIX HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48142
+http://ranapk.cf/api/REDx.m3u8?id=48142
 #EXTINF:-1 tvg-id="red48160" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png",HINDI MOVIES NOW HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48160
+http://ranapk.cf/api/REDx.m3u8?id=48160
 #EXTINF:-1 tvg-id="red48163" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png",HINDI MN PLUS HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=48163
+http://ranapk.cf/api/REDx.m3u8?id=48163
 #EXTINF:-1 tvg-id="red47863" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Fox_life_hd1.png",ENGLISH FOX LIFE HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47863
+http://ranapk.cf/api/REDx.m3u8?id=47863
 #EXTINF:-1 tvg-id="red47858" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3WORLDS.png",ENGLISH STAR WORLD HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47858
+http://ranapk.cf/api/REDx.m3u8?id=47858
 #EXTINF:-1 tvg-id="red47860" group-title="English Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star3worldpremer.png",ENGLISH STAR WORLD PREMIER HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7x.php?id=47860
+http://ranapk.cf/api/REDx.m3u8?id=47860
 
 
 
@@ -269,47 +269,302 @@ http://103.179.246.243:8000/play/a051/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil Music",Jaya Max
+https://tvstream.fun/jtv/automax_tv.php?c=Jaya_Max
+#EXTINF:-1 tvg-id="803" tvg-name="Tunes 6" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil Music",Tunes 6
+https://tvstream.fun/jtv/automax_tv.php?c=Tunes_6
+#EXTINF:-1 tvg-id="845" tvg-name="MK Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Tamil Music",MK Music
+https://tvstream.fun/jtv/automax_tv.php?c=MK_Music
+#EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil Music",Raj Musix
+https://tvstream.fun/jtv/automax_tv.php?c=Raj_Musix
+#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Tamil Regular",Kalaignar TV
+https://tvstream.fun/jtv/automax_tv.php?c=Kalaignar_TV
+#EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Tamil Regular",Colors Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Colors_Tamil_HD
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil Regular",Jaya TV HD
+https://tvstream.fun/jtv/automax_tv.php?c=Jaya_TV_HD
+#EXTINF:-1 tvg-id="847" tvg-name="MK TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Tamil Regular",MK TV
+https://tvstream.fun/jtv/automax_tv.php?c=MK_TV
+#EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Tamil Regular",Polimer TV
+https://tvstream.fun/jtv/automax_tv.php?c=Polimer_TV
+#EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Tamil Regular",Makkal TV
+https://tvstream.fun/jtv/automax_tv.php?c=Makkal_TV
+#EXTINF:-1 tvg-id="711" tvg-name="Captain tv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Tamil Regular",Captain tv
+https://tvstream.fun/jtv/automax_tv.php?c=Captain_tv
+#EXTINF:-1 tvg-id="857" tvg-name="Vendhar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Tamil Regular",Vendhar TV
+https://tvstream.fun/jtv/automax_tv.php?c=Vendhar_TV
+#EXTINF:-1 tvg-id="727" tvg-name="Vasanth TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Tamil Regular",Vasanth TV
+https://tvstream.fun/jtv/automax_tv.php?c=Vasanth_TV
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Zee_Tamil
+#EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Tamil Regular",Raj TV
+https://tvstream.fun/jtv/automax_tv.php?c=Raj_TV
+#EXTINF:-1 tvg-id="796" tvg-name="Peppers TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Tamil Regular",Peppers TV
+https://tvstream.fun/jtv/automax_tv.php?c=Peppers_TV
+#EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil Regular",Puthu Yugam
+https://tvstream.fun/jtv/automax_tv.php?c=Puthu_Yugam
+#EXTINF:-1 tvg-id="1518" tvg-name="Moon TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="Tamil Regular",Moon TV
+https://tvstream.fun/jtv/automax_tv.php?c=Moon_Tv
+#EXTINF:-1 tvg-id="970" tvg-name="Win TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil Regular",Win TV
+https://tvstream.fun/jtv/automax_tv.php?c=Win_TV
+#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title=" Tamil Movies",J Movies
+https://tvstream.fun/jtv/automax_tv.php?c=J_Movies
+#EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title=" Tamil Movies",Raj Digital Plus
+https://tvstream.fun/jtv/automax_tv.php?c=Raj_Digital_Plus
+#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
+https://tvstream.fun/jtv/automax_tv.php?c=Colors_Infinity_HD
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony Pix HD
+https://tvstream.fun/jtv/automax_tv.php?c=Sony_Pix_HD
+#EXTINF:-1 tvg-id="430" tvg-name="Jio Cricket HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="English Sports",Jio Cricket HD
+https://tvstream.fun/jtv/automax_tv.php?c=Jio_Cricket
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies",And Pictures HD
+https://tvstream.fun/jtv/automax_tv.php?c=And_Pictures_HD
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi Movies",Zee Cinema
+https://tvstream.fun/jtv/automax_tv.php?c=Zee_Cinema
+#EXTINF:-1 tvg-id="876" tvg-name="Times Now World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="English News,Times Now World
+https://tvstream.fun/jtv/automax_tv.php?c=Times_Now_HD
+#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="English News",NDTV 24x7
+https://tvstream.fun/jtv/automax_tv.php?c=NDTV_24x7
+#EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News",Times NOW
+https://tvstream.fun/jtv/automax_tv.php?c=Times_NOW
+#EXTINF:-1 tvg-id="492" tvg-name="CNN NEWS 18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="English News",CNN NEWS 18
+https://tvstream.fun/jtv/automax_tv.php?c=CNN_NEWS_18
+#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="English News",NDTV Profit
+https://tvstream.fun/jtv/automax_tv.php?c=NDTV_Profit
+#EXTINF:-1 tvg-id="489" tvg-name="CNBC Tv 18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="English News",CNBC Tv 18
+https://tvstream.fun/jtv/automax_tv.php?c=CNBC_Tv18_Prime_HD
+#EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Tamil News",Thanthi TV
+https://tvstream.fun/jtv/automax_tv.php?c=Thanthi_TV
+#EXTINF:-1 tvg-id="636" tvg-name="Polimer News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
+https://tvstream.fun/jtv/automax_tv.php?c=Polimer_News
+#EXTINF:-1 tvg-id="826" tvg-name="Malai Murasu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Tamil News",Malai Murasu
+https://tvstream.fun/jtv/automax_tv.php?c=Malai_Murasu
+#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Tamil News",Raj News 24x7
+https://tvstream.fun/jtv/automax_tv.php?c=Raj_News_24x7
+#EXTINF:-1 tvg-id="1780" tvg-name="Hoopla Kidz TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="English Kids",Hoopla Kidz TV
+https://tvstream.fun/jtv/automax_tv.php?c=Hoopla_Kids_TV
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="English Kids",Nick HD+
+https://tvstream.fun/jtv/automax_tv.php?c=Nick_HD_Plus
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="English Kids",CN HD+ English
+https://tvstream.fun/jtv/automax_tv.php?c=CN_HD_English
+#EXTINF:-1 tvg-id="1872" tvg-name="DreamWorks" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="English Kids",DreamWorks
+https://tvstream.fun/jtv/automax_tv.php?c=Dreamworks
+#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="English Kids",Highbrow
+https://tvstream.fun/jtv/automax_tv.php?c=Highbrow
+#EXTINF:-1 tvg-id="1601" tvg-name="ZooMoo HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="English Kids",ZooMoo HD
+https://tvstream.fun/jtv/automax_tv.php?c=ZooMoo_HD
+#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil Kids",Nick Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Nick_Tamil
+#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil Kids",Pogo Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Pogo_Tamil
+#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Tamil Kids",Cartoon Network Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Cartoon_Network_Tamil
+#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Tamil Kids",CN HD+ Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=CN_HD_Tamil
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil Kids",sonic Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=sonic_Tamil
+#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Tamil Kids",Discovery Kids Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Discovery_Kids_Tamil
+#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Tamil Kids",Sony Yay Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Sony_Yay_Tamil
+#EXTINF:-1 tvg-id="814" tvg-name="Travelxp Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Tamil Informational",Travelxp Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Travel_XP_Tamil
+#EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Tamil Informational",Sony BBC Earth HD Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=Sony_BBC_Earth_HD_Tamil
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="English Informational",Animal Planet HD World
+https://tvstream.fun/jtv/automax_tv.php?c=Animal_Planet_HD
+#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="English Informational",Animal Planet English
+https://tvstream.fun/jtv/automax_tv.php?c=Animal_Planet_English
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="English Informational",Discovery
+https://tvstream.fun/jtv/automax_tv.php?c=Discovery
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="English Informational",Travelxp HD
+https://tvstream.fun/jtv/automax_tv.php?c=Travel_XP_HD
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="English Informational",Discovery Science
+https://tvstream.fun/jtv/automax_tv.php?c=Discovery_Science
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="English Informational",Discovery HD World
+https://tvstream.fun/jtv/automax_tv.php?c=Discovery_HD_World
+#EXTINF:-1 tvg-id="1433" tvg-name="India Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="English Informational",India Science
+https://tvstream.fun/jtv/automax_tv.php?c=India_Science
+#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="English Informational",Sony BBC Earth HD
+https://tvstream.fun/jtv/automax_tv.php?c=Sony_BBC_Earth_HD
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English Informational",History TV18 HD
+https://tvstream.fun/jtv/automax_tv.php?c=History_HD
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="English Informational",TLC HD
+https://tvstream.fun/jtv/automax_tv.php?c=TLC_HD_World
+#EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Tamil News",News7 Tamil
+https://tvstream.fun/jtv/automax_tv.php?c=News7_Tamil
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Tamil News",News 18 Tamilnadu
+https://tvstream.fun/jtv/automax_tv.php?c=News_18_Tamilnadu
+#EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Tamil News",Jaya Plus
+https://tvstream.fun/jtv/automax_tv.php?c=Jaya_Plus
+#EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Tamil News",Kalaignar Seithigal
+https://tvstream.fun/jtv/automax_tv.php?c=Kalaignar_Seithigal_
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalimurai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Tamil News",Puthiya Thalimurai
+https://tvstream.fun/jtv/automax_tv.php?c=Puthiya_Thalimurai
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil Music",Jaya Max
+http://103.139.171.5:5001/live.php?c=Jaya_Max&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="803" tvg-name="Tunes 6" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil Music",Tunes 6
+http://103.139.171.5:5001/live.php?c=Tunes_6&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="845" tvg-name="MK Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Tamil Music",MK Music
+http://103.139.171.5:5001/live.php?c=MK_Music&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil Music",Raj Musix
+http://103.139.171.5:5001/live.php?c=Raj_Musix&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Tamil Regular",Kalaignar TV
+http://103.139.171.5:5001/live.php?c=Kalaignar_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Tamil Regular",Colors Tamil
+http://103.139.171.5:5001/live.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil Regular",Jaya TV HD
+http://103.139.171.5:5001/live.php?c=Jaya_TV_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="847" tvg-name="MK TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Tamil Regular",MK TV
+http://103.139.171.5:5001/live.php?c=MK_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Tamil Regular",Polimer TV
+http://103.139.171.5:5001/live.php?c=Polimer_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Tamil Regular",Makkal TV
+http://103.139.171.5:5001/live.php?c=Makkal_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="711" tvg-name="Captain tv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Tamil Regular",Captain tv
+http://103.139.171.5:5001/live.php?c=Captain_tv&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="857" tvg-name="Vendhar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Tamil Regular",Vendhar TV
+http://103.139.171.5:5001/live.php?c=Vendhar_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="727" tvg-name="Vasanth TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Tamil Regular",Vasanth TV
+http://103.139.171.5:5001/live.php?c=Vasanth_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil
+http://103.139.171.5:5001/live.php?c=Zee_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Tamil Regular",Raj TV
+http://103.139.171.5:5001/live.php?c=Raj_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="796" tvg-name="Peppers TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Tamil Regular",Peppers TV
+http://103.139.171.5:5001/live.php?c=Peppers_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil Regular",Puthu Yugam
+http://103.139.171.5:5001/live.php?c=Puthu_Yugam&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1518" tvg-name="Moon TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="Tamil Regular",Moon TV
+http://103.139.171.5:5001/live.php?c=Moon_Tv&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="970" tvg-name="Win TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil Regular",Win TV
+http://103.139.171.5:5001/live.php?c=Win_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title=" Tamil Movies",J Movies
+http://103.139.171.5:5001/live.php?c=J_Movies&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title=" Tamil Movies",Raj Digital Plus
+http://103.139.171.5:5001/live.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
+http://103.139.171.5:5001/live.php?c=Colors_Infinity_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony Pix HD
+http://103.139.171.5:5001/live.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="430" tvg-name="Jio Cricket HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="English Sports",Jio Cricket HD
+http://103.139.171.5:5001/live.php?c=Jio_Cricket&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies",And Pictures HD
+http://103.139.171.5:5001/live.php?c=And_Pictures_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi Movies",Zee Cinema
+http://103.139.171.5:5001/live.php?c=Zee_Cinema&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="876" tvg-name="Times Now World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="English News,Times Now World
+http://103.139.171.5:5001/live.php?c=Times_Now_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="English News",NDTV 24x7
+http://103.139.171.5:5001/live.php?c=NDTV_24x7&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News",Times NOW
+http://103.139.171.5:5001/live.php?c=Times_NOW&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="CNN NEWS 18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="English News",CNN NEWS 18
+http://103.139.171.5:5001/live.php?c=CNN_NEWS_18&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="English News",NDTV Profit
+http://103.139.171.5:5001/live.php?c=NDTV_Profit&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="489" tvg-name="CNBC Tv 18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="English News",CNBC Tv 18
+http://103.139.171.5:5001/live.php?c=CNBC_Tv18_Prime_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Tamil News",Thanthi TV
+http://103.139.171.5:5001/live.php?c=Thanthi_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="636" tvg-name="Polimer News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
+http://103.139.171.5:5001/live.php?c=Polimer_News&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="826" tvg-name="Malai Murasu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Tamil News",Malai Murasu
+http://103.139.171.5:5001/live.php?c=Malai_Murasu&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Tamil News",Raj News 24x7
+http://103.139.171.5:5001/live.php?c=Raj_News_24x7&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1780" tvg-name="Hoopla Kidz TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="English Kids",Hoopla Kidz TV
+http://103.139.171.5:5001/live.php?c=Hoopla_Kids_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="English Kids",Nick HD+
+http://103.139.171.5:5001/live.php?c=Nick_HD_Plus&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="English Kids",CN HD+ English
+http://103.139.171.5:5001/live.php?c=CN_HD_English&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="DreamWorks" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="English Kids",DreamWorks
+http://103.139.171.5:5001/live.php?c=Dreamworks&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="English Kids",Highbrow
+http://103.139.171.5:5001/live.php?c=Highbrow&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1601" tvg-name="ZooMoo HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="English Kids",ZooMoo HD
+http://103.139.171.5:5001/live.php?c=ZooMoo_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil Kids",Nick Tamil
+http://103.139.171.5:5001/live.php?c=Nick_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil Kids",Pogo Tamil
+http://103.139.171.5:5001/live.php?c=Pogo_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Tamil Kids",Cartoon Network Tamil
+http://103.139.171.5:5001/live.php?c=Cartoon_Network_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Tamil Kids",CN HD+ Tamil
+http://103.139.171.5:5001/live.php?c=CN_HD_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil Kids",sonic Tamil
+http://103.139.171.5:5001/live.php?c=sonic_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Tamil Kids",Discovery Kids Tamil
+http://103.139.171.5:5001/live.php?c=Discovery_Kids_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Tamil Kids",Sony Yay Tamil
+http://103.139.171.5:5001/live.php?c=Sony_Yay_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="814" tvg-name="Travelxp Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Tamil Informational",Travelxp Tamil
+http://103.139.171.5:5001/live.php?c=Travel_XP_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Tamil Informational",Sony BBC Earth HD Tamil
+http://103.139.171.5:5001/live.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="English Informational",Animal Planet HD World
+http://103.139.171.5:5001/live.php?c=Animal_Planet_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="English Informational",Animal Planet English
+http://103.139.171.5:5001/live.php?c=Animal_Planet_English&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="English Informational",Discovery
+http://103.139.171.5:5001/live.php?c=Discovery&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="English Informational",Travelxp HD
+http://103.139.171.5:5001/live.php?c=Travel_XP_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="English Informational",Discovery Science
+http://103.139.171.5:5001/live.php?c=Discovery_Science&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="English Informational",Discovery HD World
+http://103.139.171.5:5001/live.php?c=Discovery_HD_World&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1433" tvg-name="India Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="English Informational",India Science
+http://103.139.171.5:5001/live.php?c=India_Science&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="English Informational",Sony BBC Earth HD
+http://103.139.171.5:5001/live.php?c=Sony_BBC_Earth_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English Informational",History TV18 HD
+http://103.139.171.5:5001/live.php?c=History_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="English Informational",TLC HD
+http://103.139.171.5:5001/live.php?c=TLC_HD_World&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Tamil News",News7 Tamil
+http://103.139.171.5:5001/live.php?c=News7_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Tamil News",News 18 Tamilnadu
+http://103.139.171.5:5001/live.php?c=News_18_Tamilnadu&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Tamil News",Jaya Plus
+http://103.139.171.5:5001/live.php?c=Jaya_Plus&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Tamil News",Kalaignar Seithigal
+http://103.139.171.5:5001/live.php?c=Kalaignar_Seithigal_&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalimurai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Tamil News",Puthiya Thalimurai
+http://103.139.171.5:5001/live.php?c=Puthiya_Thalimurai&q=800&e=junk.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil HD
-http://ranapk.cf/Z5RanaPk.php?c=0-9-zeetamil
+http://ranapk.cf/ZxRn.php?c=0-9-zeetamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vendhar TV
-http://ranapk.cf/Z5RanaPk.php?c=0-9-306
+http://ranapk.cf/ZxRn.php?c=0-9-306
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
-http://ranapk.cf/Z5RanaPk.php?c=0-9-makkaltv
+http://ranapk.cf/ZxRn.php?c=0-9-makkaltv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai
-http://ranapk.cf/Z5RanaPk.php?c=0-9-ddpodhigai
+http://ranapk.cf/ZxRn.php?c=0-9-ddpodhigai
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai
-http://ranapk.cf/Z5RanaPk.php?c=0-9-224
+http://ranapk.cf/ZxRn.php?c=0-9-224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Flix HD
-http://ranapk.cf/Z5RanaPk.php?c=0-9-channel_2105335046
+http://ranapk.cf/ZxRn.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Zee Cinema HD
-http://ranapk.cf/Z5RanaPk.php?c=0-9-zeecinemahd
+http://ranapk.cf/ZxRn.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",&Pictures HD
-http://ranapk.cf/Z5RanaPk.php?c=0-9-tvpictureshd
+http://ranapk.cf/ZxRn.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News
-http://ranapk.cf/Z5RanaPk.php?c=0-9-203
-
-
-
-#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil HD
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-zeetamil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vendhar TV
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-306
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-makkaltv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-ddpodhigai
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Zee Thirai
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",&Flix HD
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Zee Cinema HD
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",&Pictures HD
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News
-https://maxpro-zeelive.000webhostapp.com/Zee-Max1.php?c=0-9-203
+http://ranapk.cf/ZxRn.php?c=0-9-203
 
 
 
@@ -332,6 +587,8 @@ http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/inde
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 tvg-id="707" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Raj TV Link 2
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="727" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vasanth TV
 https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1222262888.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:-1 tvg-id="727" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vasanth TV Link 2
@@ -1751,6 +2008,410 @@ http://192.168.1.3:8080/YuvaJio/autoq.php?c=Sony_BBC_Earth_HD
 http://192.168.1.3:8080/YuvaJio/autoq.php?c=History_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",TLC 
 http://192.168.1.3:8080/YuvaJio/autoq.php?c=TLC_HD_World
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV News" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV News
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=202&deviceId=5268abcd0ce20a8472000114&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Slow TV" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="PLUTO TV",Slow TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=696&deviceId=5317bfebff98025b3200ff99&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TYT Network" tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="PLUTO TV",TYT Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=246&deviceId=5331d5fb753499095a00045a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="PLUTO TV",GLORY Kickboxing
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="PLUTO TV",CNN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Stories by Newsy" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="PLUTO TV",Top Stories by Newsy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=232&deviceId=5459795fc9f133a519bc0bef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="PLUTO TV",Bloomberg TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=224&deviceId=54ff7ba69222cb1c2624c584&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awesomeness TV" tvg-logo="https://images.pluto.tv/channels/5595e43c66ace1652e63c6a2/colorLogoPNG.png" group-title="PLUTO TV",Awesomeness TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=194&deviceId=5595e43c66ace1652e63c6a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shout! Factory TV" tvg-logo="https://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="PLUTO TV",Shout! Factory TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=542&deviceId=55a6a3275616b6240c26f393&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NewsmaxTV" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="PLUTO TV",NewsmaxTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=236&deviceId=55b179af994403942f3061d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="PLUTO TV",World Poker Tour
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="After School Cartoons" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="PLUTO TV",After School Cartoons
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Movies Channel" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="PLUTO TV",Classic Movies Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IGN" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="PLUTO TV",IGN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=805&deviceId=561c5f613286e48904fb2677&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Toons TV" tvg-logo="https://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="PLUTO TV",Classic Toons TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=548&deviceId=562ea53fa9060c5a7d463e74&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Science
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Animals
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheddar" tvg-logo="https://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/colorLogoPNG.png" group-title="PLUTO TV",Cheddar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=226&deviceId=5812afe1d0f0b8d55dde67fa&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="PLUTO TV",Fight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cars
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=663&deviceId=5812b3a4249444e05d09cc46&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="PLUTO TV",Anime All Day
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MinecrafTV" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="PLUTO TV",MinecrafTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=815&deviceId=5812b821249444e05d09cc4c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike Pluto TV" tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="PLUTO TV",Spike Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=290&deviceId=5812bcc8237a6ff45d16c407&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="PLUTO TV",Naturescape
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=692&deviceId=5812bd9f249444e05d09cc4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV True Crime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=365&deviceId=5812be1c249444e05d09cc50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BUZZR" tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="PLUTO TV",BUZZR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=540&deviceId=5812bfbe4ced4f7b601b12e6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Music Replay" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="PLUTO TV",Live Music Replay
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food TV" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="PLUTO TV",Food TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Weddings" tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Weddings
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=632&deviceId=5877acecb16bb1e042ee453f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fear Factor" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="PLUTO TV",Fear Factor
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=301&deviceId=588128d17d64bc0d0f385c34&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Best Life" tvg-logo="https://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Best Life
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=630&deviceId=5887ba337b8e94223eb121bd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Voyager Documentaries" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="PLUTO TV",Voyager Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="PLUTO TV",Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cats 24/7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="PLUTO TV",Cats 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=635&deviceId=599375885ceaac3cabccbed7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMPACT Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="PLUTO TV",IMPACT Wrestling
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Travel" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Travel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=678&deviceId=59c01b1953680139c6ae9d4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV History
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Comedy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN 2" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="PLUTO TV",CBSN 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=204&deviceId=5a6b92f6e22a617379789618&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="PLUTO TV",FOX Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Paranormal
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=669&deviceId=5adf96e3e738977e2c31cb04&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="PLUTO TV",The New Detectives
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=376&deviceId=5aea40b35126c2157123aa64&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" group-title="PLUTO TV",Nosey
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=159&deviceId=5aec96ec5126c2157123c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dogs 24/7" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="PLUTO TV",Dogs 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=636&deviceId=5b329e0a7b9d8872aeb49ceb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Privacy Policy" tvg-logo="https://images.pluto.tv/channels/5b36abcddfb1f0729a3a7dab/colorLogoPNG.png" group-title="PLUTO TV",Privacy Policy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=899&deviceId=5b36abcddfb1f0729a3a7dab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unsolved Mysteries" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="PLUTO TV",Unsolved Mysteries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=379&deviceId=5b4e96a0423e067bd6df6901&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gordon Ramsay's Kitchen" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="PLUTO TV",Gordon Ramsay's Kitchen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=294&deviceId=5b4e99f4423e067bd6df6903&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chassy" tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" group-title="PLUTO TV",Chassy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=687&deviceId=5b6b285823ecb93393cbf766&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Documentaries" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Spotlight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Combate World" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="PLUTO TV",Combate World
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="PLUTO TV",The Pet Collective
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5bb1ad55268cae539bcedb08&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="PLUTO TV",Forensic Files
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=370&deviceId=5bb1af6a268cae539bcedb0a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Military
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=655&deviceId=5bb3fea0f711fd76340eebff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WeatherNation" tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="PLUTO TV",WeatherNation
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="PLUTO TV",Dog the Bounty Hunter
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=381&deviceId=5bee1a7359ee03633e780238&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="PLUTO TV",Lucha Libre AAA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="PLUTO TV",TV Land Sitcoms
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=455&deviceId=5c2d64ffbdf11b71587184b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cold Case Files" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="PLUTO TV",Cold Case Files
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike Outdoors" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="PLUTO TV",Spike Outdoors
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=291&deviceId=5c393cad2de254456f7ef8c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="PLUTO TV",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faith TV" tvg-logo="https://images.pluto.tv/channels/5c58a539fae3812612f33ca3/colorLogoPNG.png" group-title="PLUTO TV",Faith TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=643&deviceId=5c58a539fae3812612f33ca3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cult Films
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png" group-title="PLUTO TV",Degrassi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=144&deviceId=5c6eeb85c05dfc257e5a50c4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="80s Rewind" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="PLUTO TV",80s Rewind
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="PLUTO TV",BET Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="PLUTO TV",MTV Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png" group-title="PLUTO TV",MTV Dating
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=330&deviceId=5ca6899a37b88b269472ea4b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Gamer" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Gamer
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=801&deviceId=5ca7f16c37b88b2694731c79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Backcountry" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Backcountry
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=755&deviceId=5cabdf1437b88b26947346b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Movie Channel" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="PLUTO TV",Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="PLUTO TV",MLS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Midsomer Murders" tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="PLUTO TV",Midsomer Murders
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=385&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="PLUTO TV",Doctor Who Classic
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=532&deviceId=5ce4475cd43850831ca91ce7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antiques Roadshow UK" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="PLUTO TV",Antiques Roadshow UK
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=621&deviceId=5ce44810b421747ae467b7cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Logo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG.png" group-title="PLUTO TV",Logo Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=187&deviceId=5ce5a8954311f992edbe1da2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cine Estelar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cine
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Investiga
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=936&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Telenovelas" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="PLUTO TV",Telemundo Telenovelas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Latino" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="PLUTO TV",MTV Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central Latino" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="PLUTO TV",Comedy Central Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOTALLY TURTLES" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="PLUTO TV",TOTALLY TURTLES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=983&deviceId=5d0c16d686454ead733d08f8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="PLUTO TV",Dora TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="PLUTO TV",Yo! MTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="PLUTO TV",MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="PLUTO TV",MTV Spankin' New
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Block Party" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="PLUTO TV",MTV Block Party
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Cowboys Cheer" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="PLUTO TV",Dallas Cowboys Cheer
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=315&deviceId=5d40855b3fb0855028c99b6f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Land Drama" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="PLUTO TV",TV Land Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=130&deviceId=5d40bebc5e3d2750a2239d7e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Challenge" tvg-logo="https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="PLUTO TV",The Challenge
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=298&deviceId=5d48685da7e9f476aa8a1888&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="PLUTO TV",The First
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=244&deviceId=5d486acc34ceb37d3c458a64&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN" tvg-logo="https://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" group-title="PLUTO TV",TBN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=644&deviceId=5d486b2eeddd9576d66f9066&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hillsong Channel" tvg-logo="https://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="PLUTO TV",Hillsong Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=898&deviceId=5d486b87428fe37d8cadba44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gameplay: Roblox" tvg-logo="https://images.pluto.tv/channels/5d51dd5d369acdb278dfb05d/colorLogoPNG.png" group-title="PLUTO TV",Gameplay: Roblox
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=816&deviceId=5d51dd5d369acdb278dfb05d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love & Hip Hop" tvg-logo="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="PLUTO TV",Love & Hip Hop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=283&deviceId=5d51ddf0369acdb278dfb05e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Ink Crew" tvg-logo="https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG.png" group-title="PLUTO TV",Black Ink Crew
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET Her" tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png" group-title="PLUTO TV",BET Her
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="This Old House" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="PLUTO TV",This Old House
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=618&deviceId=5d51e791b7dba3b2ae990ab2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TODAY" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="PLUTO TV",TODAY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=234&deviceId=5d695f7db53adf96b78e7ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 I Love Reality" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="PLUTO TV",VH1 I Love Reality
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=282&deviceId=5d7154fa8326b6ce4ec31f2e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 Hip Hop Family" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="PLUTO TV",VH1 Hip Hop Family
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=284&deviceId=5d71561df6f2e6d0b6493bf5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="PLUTO TV",American Gladiators
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=303&deviceId=5d815e489b315b154db2e053&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="PLUTO TV",Baywatch
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="PLUTO TV",The Addams Family
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Lives" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Lives
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=276&deviceId=5d8beeb39b5d5d5f8c672530&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Reality
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=275&deviceId=5d8bf0b06d2d855ee15115e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Celebrity" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Celebrity
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=320&deviceId=5d8bf1472907815f66a866dd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Latino" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="PLUTO TV",Nick Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr. Latino" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="PLUTO TV",Nick Jr. Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cocina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=956&deviceId=5d8d0fbaa8742fa3093899da&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Mundo" tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Mundo
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Naturaleza
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=962&deviceId=5d8d10ce06a9665fe54bf74a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike Aventura" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="PLUTO TV",Spike Aventura
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=950&deviceId=5d8d11baeb31c5a43b77bf59&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cine Acción
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=904&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Cine Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=913&deviceId=5d8d180092e97a5e107638d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Realities ESP" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Realities ESP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="PLUTO TV",Vevo Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="PLUTO TV",Naruto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="PLUTO TV",Vevo Country
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo R&B" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="PLUTO TV",Vevo R&B
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pocket.watch" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="PLUTO TV",pocket.watch
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=993&deviceId=5dae0a40e8ee0d000975e99b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Kids Animation" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kids Animation
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Tween" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Tween
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Action Sports" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Action Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET Live" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="PLUTO TV",ET Live
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=190&deviceId=5dc0c78281eddb0009a02d5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lively Place" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="PLUTO TV",Lively Place
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=615&deviceId=5dc1cb279c91420009db261d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="PLUTO TV",CBSN Los Angeles
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1026&deviceId=5dc481cda1d430000948a1b4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="PLUTO TV",PGA TOUR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="PLUTO TV",beIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News NOW" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="PLUTO TV",NBC News NOW
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=213&deviceId=5df97894467dfa00091c873c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America's Voice News" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="PLUTO TV",America's Voice News
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=240&deviceId=5e1f7da4bc7d740009831259&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="PLUTO TV",COPS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5e1f7e089f23700009d66303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blaze Live" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="PLUTO TV",Blaze Live
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=238&deviceId=5e46fba0c43b0d00096e5ac1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People Are Awesome" tvg-logo="https://images.pluto.tv/channels/5e54169f4b9b25000994a303/colorLogoPNG.png" group-title="PLUTO TV",People Are Awesome
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=340&deviceId=5e54169f4b9b25000994a303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show Central" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="PLUTO TV",Game Show Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=167&deviceId=5e54187aae660e00093561d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nuestra Vision" tvg-logo="https://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="PLUTO TV",Nuestra Vision
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=920&deviceId=5e6690befbdf780007f78158&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Carson TV" tvg-logo="https://images.pluto.tv/channels/5e66928133461100077dfd73/colorLogoPNG.png" group-title="PLUTO TV",Johnny Carson TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66928133461100077dfd73/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=514&deviceId=5e66928133461100077dfd73&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OAN Encore" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="PLUTO TV",OAN Encore
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=242&deviceId=5e7cf6c7b156d500078c5f44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="All Reality by WE tv" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="PLUTO TV",All Reality by WE tv
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=310&deviceId=5e82530945600e0007ca076c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="PLUTO TV",Stories by AMC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=135&deviceId=5e8254118601b80007b4b7ae&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="PLUTO TV",The Rifleman
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=529&deviceId=5e825550e758c700077b0aef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Walking Dead ESP" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="PLUTO TV",The Walking Dead ESP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=925&deviceId=5e82bb378601b80007b4bd78&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas Romance" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="PLUTO TV",Novelas Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=941&deviceId=5e84db2db3851800077c871e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas Drama" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="PLUTO TV",Novelas Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=942&deviceId=5e84dbf4a838b60007ffbba1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novelas Thriller" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="PLUTO TV",Novelas Thriller
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=943&deviceId=5e84dc59026b9b000766f9a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="PLUTO TV",America's Test Kitchen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5e84f54a82f05300080e6746&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Western TV" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="PLUTO TV",Western TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=526&deviceId=5e8df4bc16e34700077e77d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Forensic Files en ESP" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="PLUTO TV",Forensic Files en ESP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=933&deviceId=5e94cd036cc69d0007e8a1ba&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deal or No Deal" tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="PLUTO TV",Deal or No Deal
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=165&deviceId=5e9debf8c881310007d7bde1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png" group-title="PLUTO TV",Judge Nosey
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=160&deviceId=5e9decb953e157000752321c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="PLUTO TV",CBS Sports HQ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Chicago" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="PLUTO TV",CBSN Chicago
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1023&deviceId=5eb1aeb2fd4b8a00076c2047&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Boston" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="PLUTO TV",CBSN Boston
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1022&deviceId=5eb1af2ad345340008fccd1e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Bay Area" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="PLUTO TV",CBSN Bay Area
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1021&deviceId=5eb1afb21486df0007abc57c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Philly" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="PLUTO TV",CBSN Philly
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1030&deviceId=5eb1b05ea168cc000767ba67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Minnesota" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="PLUTO TV",CBSN Minnesota
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1028&deviceId=5eb1b0bf2240d8000732a09c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Denver" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG.png" group-title="PLUTO TV",CBSN Denver
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1025&deviceId=5eb1b12146cba40007aa7e5d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Little Baby Bum" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="PLUTO TV",Little Baby Bum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="PLUTO TV",Bellator MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN Dallas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="PLUTO TV",CBSN Dallas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1024&deviceId=5eceb0d4065c240007688ec6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dabl" tvg-logo="https://images.pluto.tv/channels/5ef0fbed39ff730007383a69/colorLogoPNG.png" group-title="PLUTO TV",Dabl
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dark Shadows" tvg-logo="https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="PLUTO TV",Dark Shadows
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d6e6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=535&deviceId=5ef3958c66ac540007d6e6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Carol Burnett Show" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="PLUTO TV",The Carol Burnett Show
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=516&deviceId=5ef396d1be50a3000722808b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="PLUTO TV",Three's Company
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=508&deviceId=5ef3977e5d773400077de284&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="PLUTO TV",CSI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="PLUTO TV",Star Trek
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=150&deviceId=5efbd39f8c4ce900075d7698&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Demand Africa" tvg-logo="https://images.pluto.tv/channels/5f061242a7951e00075d7413/colorLogoPNG.png" group-title="PLUTO TV",Demand Africa
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Love Stories" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Love Stories
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=147&deviceId=5f15e181520cfa000771ce79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Suspense" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Suspense
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=149&deviceId=5f15e281b0b8840007324b55&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic TV Comedy" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="PLUTO TV",Classic TV Comedy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=501&deviceId=5f15e32b297f96000768f928&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic TV Drama" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="PLUTO TV",Classic TV Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=520&deviceId=5f15e3cccf49290007053c67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black News Channel" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="PLUTO TV",Black News Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=230&deviceId=5f1efad04320070007dbb60b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="PLUTO TV",Survivor
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rescue 911" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="PLUTO TV",Rescue 911
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=277&deviceId=5f21e831e9fe730007706acb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Amazing Race" tvg-logo="https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="PLUTO TV",The Amazing Race
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=297&deviceId=5f21e8a6e2f12b000755afdb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Drama Life" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Drama Life
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=332&deviceId=5f24662bebe0f0000767de32&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Crime Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="PLUTO TV",Vevo '70s
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" group-title="PLUTO TV",The Bob Ross Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=518&deviceId=5f36d726234ce10007784f2a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="PLUTO TV",90210
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=138&deviceId=5f4d83e0a382c00007bc02e7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Crime Movies" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto TV Staff Picks" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Staff Picks
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90s Throwback" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="PLUTO TV",90s Throwback
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="PLUTO TV",70s Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unsolved Mysteries ESP" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="PLUTO TV",Unsolved Mysteries ESP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=934&deviceId=5f4d882d5233170007ee880e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMT Equal Play" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="PLUTO TV",CMT Equal Play
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=867&deviceId=5f68f53eb1e5800007390bf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narcos" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="PLUTO TV",Narcos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7274806621ff00072651ff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=358&deviceId=5f7274806621ff00072651ff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narcos en Español" tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png" group-title="PLUTO TV",Narcos en Español
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=927&deviceId=5f7b47f12a45590007821749&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Forensic Files" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="PLUTO TV",Forensic Files
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Music Replay" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ee0298f1-d9df-fa01-1f45-0e07d10c9ce8-Hero%20Optional%201560x878.jpg" group-title="PLUTO TV",Live Music Replay
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="PLUTO TV",NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+
 
 
 
