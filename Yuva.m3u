@@ -1,59 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
 
-#EXTINF:-1 tvg-id="sun9013" tvg-name="Sun Music HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil Music",Sun Music HD Zecast
-http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-#EXTINF:-1 tvg-id="sun9013" tvg-name="Sun Music HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil Music",Sun Music HD Zecast Link 2
-http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-#EXTINF:-1 tvg-id="ts647" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",ISAIARUVI Buffer
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 tvg-id="ts647" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",ISAIARUVI Link 2 Buffer
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="845" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MK Tunes
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 tvg-id="845" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MK Tunes Link 2
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="803" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",TUNE 6
-https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
-#EXTINF:-1 tvg-id="803" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",TUNE 6 480p
-https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MN music
-rtmp://mntv.livebox.co.in:1935/music/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MN Music Link 2
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Isai Saral
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7s Music
-http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7s Music Link 2
-http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",IBC Music
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",SR MUSIX
-http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV
-http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV Link 2
-http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV Link 3
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV
-http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV Link 2
-http://51.79.158.179:1935/live/sanatv2/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV Link 3
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Krishna TV
-http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee tamil
-http://tv.googledrivelinks.com:8088/live.php?c=Zee_Tamil&q=1200&e=.m3u8
-
-
 #EXTINF:-1 tvg-id="sun32138" tvg-name="KTV {SNXT}" tvg-logo="https://sund-images.sunnxt.com/32138/300x300_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Tamil Movies",KTV 
 https://hotstarx.herokuapp.com/sunnxt/sunapi.php?id=32138&e=.m3u8
 #EXTINF:-1 tvg-id="sun26566" tvg-name="KTV HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil Movies",KTV HD
@@ -74,15 +21,6 @@ https://hotstarx.herokuapp.com/sunnxt/sunapi.php?id=9023&e=.m3u8
 https://hotstarx.herokuapp.com/sunnxt/sunapi.php?id=9025&e=.m3u8
 #EXTINF:-1 tvg-id="sun9013" tvg-name="Sun Music HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil Music",Sun Music HD 
 https://hotstarx.herokuapp.com/sunnxt/sunapi.php?id=9013&e=.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
@@ -118,810 +56,90 @@ http://0nelivezer0.rbtvnw.com:21190/vulcan/chuttitv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chutti TV tamil RedClient
-http://31.172.87.52:2200/R-EX/KIDS_Chutti_TV_HD-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chutti TV tamil Link 2 RedClient
-http://31.172.87.52:2200/R-EX/KIDS_Chutti_TV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Disney TV RedClient
-http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Disney TV Link 2 RedClient
-http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Hungama TV RedClient
-http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Hungama TV Link 2 RedClient
-http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Nick RedClient
-http://31.172.87.55:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Nick Link 2 RedClient
-http://31.172.87.55:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Pogo RedClient
-http://31.172.87.52:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Pogo Link 2 RedClient
-http://31.172.87.52:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Cartoon Network RedClient
-http://31.172.87.37:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Cartoon Network Link 2 RedClient
-http://31.172.87.37:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Hindi Movies",Sony Max RedClient
-http://31.172.87.52:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And flix RedClient
-http://31.172.87.55:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD Link 2 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD Link 3 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD Link 4 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
+
+
+
+
+#EXTINF:-1 tvg-id="sun9013" tvg-name="Sun Music HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil Music",Sun Music HD Zecast
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-id="sun9013" tvg-name="Sun Music HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil Music",Sun Music HD Zecast Link 2
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+#EXTINF:-1 tvg-id="ts647" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",ISAIARUVI Buffer
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 tvg-id="ts647" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",ISAIARUVI Link 2 Buffer
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7s Music
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",7s Music Link 2
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="845" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="845" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",MK Tunes Link 2
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",IBC Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV
+http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV Link 2
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana TV Link 3
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV Link 2
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sana 2 TV Link 3
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Krishna TV
+http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee tamil
+http://tv.googledrivelinks.com:8088/live.php?c=Zee_Tamil&q=1200&e=.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Jaya Max RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Jaya Max Link 2 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Raj Digital Plus RedClient
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Raj Digital Plus Link 2 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colors Tamil HD RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colours Tamil HD Link 2 RedClient 
 http://31.172.87.52:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colours Tamil HD Link 3 RedClient
-http://31.172.87.52:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colours Tamil HD Link 4 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 2 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 3 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 4 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD Link 2 RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD Link 3 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD Link 4 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music HD RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music HD Link 2 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Sun Music HD Link 3 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Sun Music HD Link 4 RedClient
-http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super Link 2 RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super Link 3 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super Link 4 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay HD RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay HD Link 2 RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay HD Link 3 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay HD Link 4 RedClient
-http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659%7CUser-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Sports",Star Sports 1 Tamil RedClient
-http://31.172.87.56:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED__WMSgys8BM4x7y0kBS-WIA%3D%3D%2C1658116859.9659699029=%7CUser-agent=REDLINECLIENT
 
 
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| &TV FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| &TV FHD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76483
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| 9X Jhakaas" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| 9X Jhakaas
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76484
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| 9XM" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| 9XM
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76485
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| 9XM Jalwa" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| 9XM Jalwa
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76486
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| 9xTashan" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| 9xTashan
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76487
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| B4U Music" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| B4U Music
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76488
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SUN Music" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SUN Music
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76489
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Music dia" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Music dia
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76490
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| B4U Plus" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| B4U Plus
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76491
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MTV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MTV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76492
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| &pictures HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| &pictures HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76493
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| And TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| And TV HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76494
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Colors TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Colors TV HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76495
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Plus HD US" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Plus HD US
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76496
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zg TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zg TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76497
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Gold" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Gold
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76498
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Six HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Six HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76499
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Pix" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Pix
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76500
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Pal" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Pal
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76501
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SetMax2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SetMax2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76502
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sab TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sab TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76503
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Rishtey" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Rishtey
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76504
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Set Max UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Set Max UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76505
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Sab HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Sab HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76506
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76507
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Plus UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Plus UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76508
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UTV Movies ter" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| UTV Movies ter
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76509
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Colors TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Colors TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76510
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Colors UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Colors UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76511
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Rishtey Ce UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Rishtey Ce UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76512
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Rishtey UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Rishtey UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76513
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sab TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sab TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76514
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Max HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Max HD UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76515
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Sab UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Sab UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76516
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony TV Asia UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony TV Asia UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76517
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76518
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Gold UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Gold UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76519
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Life OK UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Life OK UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76520
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Utsav UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Utsav UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76521
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Cema HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Cema HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76522
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76523
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zg UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zg UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76524
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zoom UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zoom UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76525
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony MIX" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony MIX
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76526
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Movies OK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Movies OK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76527
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| LifeOK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| LifeOK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76528
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| B4U Movies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| B4U Movies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UTV Bdas" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| UTV Bdas
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76530
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Action" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Action
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Anmol" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Anmol
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76532
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UTV Movies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| UTV Movies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76533
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Busess" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Busess
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Livg" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Livg
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76535
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Zdagi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Zdagi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76536
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZeeNews" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ZeeNews
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76537
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Classic" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Classic
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76538
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Cema" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Cema
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76539
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Life OK HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Life OK HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zdagi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zdagi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76541
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zoom" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zoom
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76542
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Plus" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Plus
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76543
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee ETC" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee ETC
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76544
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Livg Foodz 2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Livg Foodz 2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76545
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MH1 Shradha" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MH1 Shradha
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76546
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| News 24" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| News 24
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Times Now" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Times Now
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AAJ TAK UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AAJ TAK UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ABP News UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ABP News UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| And TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| And TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NDTV 24x7 UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| NDTV 24x7 UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AAJ TAK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AAJ TAK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| dia TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| dia TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NDTV dia" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| NDTV dia
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee News" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee News
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76556
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Discovery" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Discovery
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| IBN 7" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| IBN 7
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76558
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Ten Action" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Ten Action
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76559
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TEN 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| TEN 1 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76560
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 1" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 1
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 3" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 3
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76563
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 4" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 4
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76564
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Eleven Sport Network Asia" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Eleven Sport Network Asia
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76565
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| HBO" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| HBO
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76566
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Ten Cricket HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Ten Cricket HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76567
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 1 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76568
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 2 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76569
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 3 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76570
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Sports 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Sports 4 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76571
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TEN Golf HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| TEN Golf HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76572
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Ten Sports" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Ten Sports
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76573
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Willow Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Willow Cricket
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76574
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Akkal Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Akkal Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76575
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sangat TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sangat TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76576
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| PTC Chak DE Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| PTC Chak DE Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76577
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| PTC News Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| PTC News Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76578
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| PTC Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| PTC Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76579
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sikh Channel Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sikh Channel Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76580
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sanjh TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sanjh TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76581
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| PTC Chakde" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| PTC Chakde
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76582
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Punjab TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Punjab TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76583
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| 9X Tashan Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| 9X Tashan Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76584
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AOne Music Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AOne Music Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76585
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AOne Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AOne Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76586
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Britasia Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Britasia Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76587
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ChakDE TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ChakDE TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76588
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Chardiala Time TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Chardiala Time TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76589
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Desi Channel Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Desi Channel Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76590
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETC Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETC Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76591
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jus One TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jus One TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76592
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| JUS Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| JUS Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76593
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MH1 News Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MH1 News Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76594
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MH1 Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MH1 Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76595
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Punjabi Haryana TV Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Punjabi Haryana TV Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76596
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76597
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ChakDE" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ChakDE
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76598
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Dabang TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Dabang TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76599
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| DD Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| DD Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76600
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Desi TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Desi TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76601
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MH1 Music" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MH1 Music
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76602
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Media Punjab" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Media Punjab
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76603
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Manoranjan TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Manoranjan TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76604
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ARY Digital UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ARY Digital UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76605
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Britasia TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Britasia TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76606
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| GEO News UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| GEO News UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76607
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| GEO TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| GEO TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76608
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| HUM Europe UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| HUM Europe UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76609
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Noor TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Noor TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Takbeer TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Takbeer TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Aamar Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Aamar Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ABP Ananda Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ABP Ananda Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76613
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Asian TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Asian TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76614
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ATN Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ATN Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ATN Music TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ATN Music TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ATN News Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ATN News Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ATN UK Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ATN UK Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76618
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Bangla Vision Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Bangla Vision Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76619
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Bijoy Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Bijoy Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76620
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Boishakhi Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Boishakhi Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76621
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| BTV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| BTV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76622
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| BTV World Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| BTV World Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76623
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Channel 24 Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Channel 24 Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Channel 9 Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Channel 9 Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Channel 99 Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Channel 99 Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76626
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Channel I EU Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Channel I EU Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76627
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Channel S Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Channel S Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76628
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Channel I Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Channel I Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76629
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Colors+ Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Colors+ Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76630
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| DBC News Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| DBC News Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76631
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| DD Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| DD Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76632
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Deepto HD Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Deepto HD Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76633
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Deshe Bideshe TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Deshe Bideshe TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76634
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| DeshTV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| DeshTV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76635
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Dhoom Music Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Dhoom Music Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76636
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Dhoom Music Bangla HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Dhoom Music Bangla HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76637
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Ekattor TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Ekattor TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76638
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76639
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Gaan Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Gaan Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76640
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| dependent Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| dependent Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76641
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| iTV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| iTV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76642
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jamuna TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jamuna TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76643
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Maasaranga Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Maasaranga Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76644
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Masranga TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Masranga TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76645
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Mohana Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Mohana Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76646
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Movie Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Movie Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Music Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Music Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76648
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MyTV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MyTV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76649
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| News 24 HD Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| News 24 HD Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76650
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NRB TV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| NRB TV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76651
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NTV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| NTV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76652
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Probashi Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Probashi Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76653
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| R Plus News Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| R Plus News Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76654
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Ruposhi Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Ruposhi Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76655
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sangeet Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sangeet Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76656
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SATV Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SATV Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76657
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Somoy Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Somoy Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Jalsa Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Jalsa Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76659
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Jhalsa Movies Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Jhalsa Movies Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Tarang Music" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Tarang Music
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Time Television Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Time Television Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76662
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TV UK Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| TV UK Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76663
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Bangla Cema" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Bangla Cema
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76664
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Jalsha" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Jalsha
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76665
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Bangla
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76666
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Teleugu ETV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Teleugu ETV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76667
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Teleugu Maa Movies UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Teleugu Maa Movies UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76668
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Teleugu Maa TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Teleugu Maa TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76669
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV Telangana" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV Telangana
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76670
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya Max UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya Max UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76671
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya Movie UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya Movie UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76672
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76673
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Kairali" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Kairali
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76674
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Marathi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Marathi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76675
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Marathi HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Marathi HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Telugu Ditto" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Telugu Ditto
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76677
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AsiaNet" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AsiaNet
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76678
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Vijay" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Vijay
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76679
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Movies Action" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Movies Action
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76680
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Dillagi Amrita" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Dillagi Amrita
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76681
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Colors Gujrati" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Colors Gujrati
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AsiaNet Plus" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AsiaNet Plus
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Kannada Colors UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Kannada Colors UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76684
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Maa Gold" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Maa Gold
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Janam TV 2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Janam TV 2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Gemi Movies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Gemi Movies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Polimer TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Polimer TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76688
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya Movies HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76689
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Talkies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Talkies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76690
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee TV HD US" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee TV HD US
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76691
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76692
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Tamil
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76693
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sun TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sun TV HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76694
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Plus HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Plus HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76695
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Gold HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Gold HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76696
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Movies HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76697
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony TV HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76698
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya Movies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya Movies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76699
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Gemi Movies 1" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Gemi Movies 1
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76700
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Gemi Movies 2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Gemi Movies 2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Gemi TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Gemi TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| KTV USA" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| KTV USA
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76703
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Pravah" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Pravah
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76704
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya Max 2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya Max 2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76705
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya Plus" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya Plus
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76706
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Jaya TV USA" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Jaya TV USA
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76707
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Puthiya" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Puthiya
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76708
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| RAJ Digital Plus" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| RAJ Digital Plus
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76709
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| RAJ Musix" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| RAJ Musix
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76710
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| RAJ TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| RAJ TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76711
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Raj Digital Plus UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Raj Digital Plus UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76712
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Raj TV UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Raj TV UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76713
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sonic Nickelodeon" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sonic Nickelodeon
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76714
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Santhora TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Santhora TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76715
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Food Food" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Food Food
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76716
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Housefull Action" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Housefull Action
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76717
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Nickelodeon" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Nickelodeon
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76718
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Pogo TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Pogo TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76719
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Manoranjan Movies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Manoranjan Movies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76720
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Nick Jr" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Nick Jr
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76721
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Akaal Channel Punjabi" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Akaal Channel Punjabi
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76722
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sangat UK" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sangat UK
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76723
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony SAB FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony SAB FHD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76724
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76725
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Cema FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee Cema FHD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76726
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee TV HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76727
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee TV FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zee TV FHD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76728
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Max HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Max HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Animal Planet HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Animal Planet HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76730
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Big Magic" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Big Magic
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76731
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Desi Plus HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Desi Plus HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76732
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Discovery Kids" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Discovery Kids
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Discovery Science" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Discovery Science
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Discovery Turbo" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Discovery Turbo
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76735
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Discovery World HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Discovery World HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76736
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| E24" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| E24
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76737
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Enterr 10" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Enterr 10
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76738
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Masti TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Masti TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76739
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Rishtey Ceplex" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Rishtey Ceplex
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76740
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| WB HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| WB HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76741
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony MAX 2" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony MAX 2
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76742
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony MAX" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony MAX
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76743
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony SAB" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony SAB
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Ten 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony Ten 1 FHD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony TV" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony TV
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76746
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony WAH" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony WAH
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76747
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Movies" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Movies
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76748
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Utsav" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Star Utsav
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76749
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony YAY" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sony YAY
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76750
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Travel XP HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Travel XP HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76751
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| WOW Cema" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| WOW Cema
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76752
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| WOW Kidz" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| WOW Kidz
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76753
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zg" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Zg
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76754
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| & Flix HD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| & Flix HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76755
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY SIX HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SONY SIX HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76756
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY TEN2 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SONY TEN2 HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76757
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS KANNADA HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS KANNADA HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76758
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR VIJAY HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR VIJAY HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76759
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZEE HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ZEE HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76760
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| AND PICTURES VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| AND PICTURES VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76761
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS GUJARATI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS GUJARATI HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76762
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR GOLD FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR GOLD FHD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76763
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY SAB FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SONY SAB FHD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76764
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| CEPLEX HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| CEPLEX HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76765
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS BANGLA HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS BANGLA HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76766
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76767
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| COLORS MARATHI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| COLORS MARATHI HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76768
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR GOLD SELECT HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR GOLD SELECT HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR PLUS HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR PLUS HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76770
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR PRAVAH HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR PRAVAH HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 1 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS 1 HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 1 HDI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS 1 HDI HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 2 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS 2 HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS SELECT 1 FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS SELECT 1 FHD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76775
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS SELECT 2 FHD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR SPORTS SELECT 2 FHD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76776
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MAA TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| MAA TV HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76777
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| JALSHA MOVIES HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| JALSHA MOVIES HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| GEMI TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| GEMI TV HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76779
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76780
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| D SPORTS VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| D SPORTS VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76781
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ASIANET HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ASIANET HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76782
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY TEN1 HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SONY TEN1 HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR JALSHA HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| STAR JALSHA HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76784
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SUN MUSIC HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SUN MUSIC HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76785
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SUN TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SUN TV HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76786
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SURYA TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| SURYA TV HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76787
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UDAYA TV HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| UDAYA TV HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76788
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZEE MARATHI HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ZEE MARATHI HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76789
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZEE TALKIES HD VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ZEE TALKIES HD VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76790
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ITN TV LK VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ITN TV LK VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76791
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sri TV LK VIP" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| Sri TV LK VIP
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76792
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV ABHIRUCHI" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV ABHIRUCHI
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76793
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ETV Life" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ETV Life
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76794
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ABN ANDHRA J" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA _BJ",|IN| ABN ANDHRA J
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76795
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANCIENT HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",ANCIENT HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862851&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANCIENT MOVIES" tvg-logo="" group-title="TATA PLAY ORIGINAL",ANCIENT MOVIES
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862852&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANCIENT NEWS" tvg-logo="" group-title="TATA PLAY ORIGINAL",ANCIENT NEWS
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862853&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FCT MARATHI" tvg-logo="" group-title="TATA PLAY ORIGINAL",FCT MARATHI
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862836&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBN LOKMAT" tvg-logo="" group-title="TATA PLAY ORIGINAL",IBN LOKMAT
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862838&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCCSHAHI NEWS" tvg-logo="" group-title="TATA PLAY ORIGINAL",LOCCSHAHI NEWS
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862837&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK HD +" tvg-logo="" group-title="TATA PLAY ORIGINAL",NICK HD +
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862701&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="TATA PLAY ORIGINAL",POGO
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862705&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAAM TV" tvg-logo="" group-title="TATA PLAY ORIGINAL",SAAM TV
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862839&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",SONY HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862731&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="" group-title="TATA PLAY ORIGINAL",SONY WAH
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862732&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY YEH" tvg-logo="" group-title="TATA PLAY ORIGINAL",SONY YEH
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862733&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR BHARAT HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862736&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD 2" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR GOLD 2
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862737&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR GOLD HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862738&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR GOLD SELECT HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862739&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies HD IPTVforTV
 http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862740&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR PLUS HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862742&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR PRAVAH HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862844&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1  SELECT" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR SPORTS 1  SELECT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",STAR SPORTS 1  SELECT IPTVforTV
 http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862747&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR SPORTS 2 SELECT HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",STAR SPORTS 2  SELECT IPTVforTV
 http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862748&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR SPORTS HD 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",STAR SPORTS 1  HD IPTVforTV
 http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862743&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR SPORTS HD 1 HINDI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Sports",STAR SPORTS 1  Hindi IPTVforTV
 http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862744&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR WORLD HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862750&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD PREMIER HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",STAR WORLD PREMIER HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862751&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN UDYA HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",SUN UDYA HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862826&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 9 Marathi" tvg-logo="" group-title="TATA PLAY ORIGINAL",TV 9 Marathi
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862845&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="TATA PLAY ORIGINAL",ZEE CLASSIC
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862790&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI HD" tvg-logo="" group-title="TATA PLAY ORIGINAL",ZEE MARATHI HD
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862847&extension=ts&play_token=z0V01wdtTE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE YUVA" tvg-logo="" group-title="TATA PLAY ORIGINAL",ZEE YUVA
-http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862848&extension=ts&play_token=z0V01wdtTE
-
-
-
 
 
 
@@ -1064,142 +282,6 @@ https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Kalaignar_Seithi
 https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Puthiya_Thalimurai&q=600&e=junk.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil Music",Jaya Max
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Jaya_Max&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="803" tvg-name="Tunes 6" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil Music",Tunes 6
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Tunes_6&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="845" tvg-name="MK Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Tamil Music",MK Music
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=MK_Music&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil Music",Raj Musix
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Raj_Musix&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Tamil Regular",Kalaignar TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Kalaignar_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Tamil Regular",Colors Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil Regular",Jaya TV HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Jaya_TV_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="847" tvg-name="MK TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Tamil Regular",MK TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=MK_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Tamil Regular",Polimer TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Polimer_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Tamil Regular",Makkal TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Makkal_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="711" tvg-name="Captain tv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Tamil Regular",Captain tv
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Captain_tv&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="857" tvg-name="Vendhar TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Tamil Regular",Vendhar TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Vendhar_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="727" tvg-name="Vasanth TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Tamil Regular",Vasanth TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Vasanth_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil Regular",Zee Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Zee_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Tamil Regular",Raj TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Raj_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="796" tvg-name="Peppers TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Tamil Regular",Peppers TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Peppers_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil Regular",Puthu Yugam
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Puthu_Yugam&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1518" tvg-name="Moon TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="Tamil Regular",Moon TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Moon_Tv&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="970" tvg-name="Win TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil Regular",Win TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Win_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title=" Tamil Movies",J Movies
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=J_Movies&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title=" Tamil Movies",Raj Digital Plus
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Raj_Digital_Plus&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony Pix HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="430" tvg-name="Jio Cricket HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="English Sports",Jio Cricket HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies",And Pictures HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi Movies",Zee Cinema
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="876" tvg-name="Times Now World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="English News,Times Now World
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Times_Now_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="English News",NDTV 24x7
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=NDTV_24x7&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News",Times NOW
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Times_NOW&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="492" tvg-name="CNN NEWS 18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="English News",CNN NEWS 18
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="English News",NDTV Profit
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=NDTV_Profit&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="CNBC Tv 18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="English News",CNBC Tv 18
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=CNBC_Tv18_Prime_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Tamil News",Thanthi TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Thanthi_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="636" tvg-name="Polimer News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil News",Polimer News
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Polimer_News&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="826" tvg-name="Malai Murasu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Tamil News",Malai Murasu
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Malai_Murasu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Tamil News",Raj News 24x7
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Raj_News_24x7&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1780" tvg-name="Hoopla Kidz TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="English Kids",Hoopla Kidz TV
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Hoopla_Kids_TV&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="English Kids",Nick HD+
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="English Kids",CN HD+ English
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=CN_HD_English&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="DreamWorks" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="English Kids",DreamWorks
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Dreamworks&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="English Kids",Highbrow
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Highbrow&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1601" tvg-name="ZooMoo HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="English Kids",ZooMoo HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=ZooMoo_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil Kids",Nick Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Nick_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil Kids",Pogo Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Pogo_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Tamil Kids",Cartoon Network Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Tamil Kids",CN HD+ Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=CN_HD_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil Kids",sonic Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=sonic_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Tamil Kids",Discovery Kids Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Tamil Kids",Sony Yay Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="814" tvg-name="Travelxp Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Tamil Informational",Travelxp Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Travel_XP_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Tamil Informational",Sony BBC Earth HD Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="English Informational",Animal Planet HD World
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="English Informational",Animal Planet English
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Animal_Planet_English&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="English Informational",Discovery
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Discovery&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="English Informational",Travelxp HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="English Informational",Discovery Science
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Discovery_Science&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="English Informational",Discovery HD World
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1433" tvg-name="India Science" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="English Informational",India Science
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=India_Science&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="English Informational",Sony BBC Earth HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English Informational",History TV18 HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=History_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="English Informational",TLC HD
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=TLC_HD_World&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Tamil News",News7 Tamil
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=News7_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Tamil News",News 18 Tamilnadu
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=News_18_Tamilnadu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Tamil News",Jaya Plus
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Jaya_Plus&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Tamil News",Kalaignar Seithigal
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Kalaignar_Seithigal_&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalimurai" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Tamil News",Puthiya Thalimurai
-https://6028-103-160-64-115.ngrok.io/YASHRAJ-jio-03//live.php?c=Puthiya_Thalimurai&q=1200&e=junk.m3u8
 
 
 
@@ -1351,10 +433,6 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Kalaignar Link 3
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Murasu TV
-http://103.199.160.85:80/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Murasu TV Link 2
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Jaya TV
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 tvg-id="707" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Raj TV
@@ -1367,34 +445,16 @@ https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:-1 tvg-id="727" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vasanth TV Link 3
 http://14.199.164.20:4001/play/a0la/index.m3u8
-#EXTINF:-1 tvg-id="711" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV MX
-https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8
-#EXTINF:-1 tvg-id="711" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV 288p MX
-https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
-#EXTINF:-1 tvg-id="711" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV Link 2
+#EXTINF:-1 tvg-id="711" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV 
 http://103.199.160.85:80/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="711" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV Link 3
+#EXTINF:-1 tvg-id="711" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",CAPTAIN TV Link 2
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1 tvg-id="857" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",VENDHAR TV 288p
-https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
-#EXTINF:-1 tvg-id="857" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",VENDHAR TV 480p
-https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="847" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-id="847" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",MK TV Link 2
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="847" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",MK TV Link 3
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="847" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",MK TV Link 4
 http://14.199.164.20:4001/play/a0lh/index.m3u8
-#EXTINF:-1 tvg-id="847" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",MK TV Link 5
-http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="824" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Pudhuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="824" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV MX
-https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal TV Link 2
@@ -1405,10 +465,6 @@ http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="ts272" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Polimer TV Link 3
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
-#EXTINF:-1 tvg-id="ts334" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai 
-https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
-#EXTINF:-1 tvg-id="ts334" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",DD Podhigai 480p
-https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Tamilan
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",IBC Tamil
@@ -1432,7 +488,7 @@ http://mhdtvworld.xyz@137.59.85.66/Content/megatv/Live/Channel(MEGATV)/index.m3u
 http://mhdtvworld.xyz@103.199.160.85:80/Content/mega24/Live/Channel(MEGA24)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Jaya TV
 http://mhdtvworld.xyz@103.199.160.85:80/Content/jayatv/Live/Channel(JAYATV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Jaya Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Jaya Movies
 http://mhdtvworld.xyz@137.59.85.66:80/Content/jayamovies/Live/Channel(JAYAMOVIES)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Raj TV
 http://mhdtvworld.xyz@103.199.161.254:80/Content/rajtv/Live/Channel(RajTV)/index.m3u8
@@ -1440,25 +496,25 @@ http://mhdtvworld.xyz@103.199.161.254:80/Content/rajtv/Live/Channel(RajTV)/index
 http://mhdtvworld.xyz@103.199.161.254:80/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Malar
 http://mhdtvworld.xyz@137.59.85.66:80/Content/malar/Live/Channel(MALAR)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Discovery Tamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Informational",Discovery Tamil
 http://mhdtvworld.xyz@137.59.85.66:80/Content/discoverytamil/Live/Channel(DISCOVERYTAMIL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Jaya Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Jaya Plus
 http://mhdtvworld.xyz@103.199.160.85:80/Content/jayaplus/Live/Channel(JAYAPLUS)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",News Tamil 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",News Tamil 
 http://mhdtvworld.xyz@137.59.85.66:80/Content/newstamil24x7/Live/Channel(NEWSTAMIL24X7)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Malaimurasu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Malaimurasu
 http://mhdtvworld.xyz@137.59.85.66:80/Content/malaimurasu/Live/Channel(MALAIMURASU)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Moon TV
 http://mhdtvworld.xyz@137.59.85.66:80/Content/moon/Live/Channel(MOON)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Thanthi TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Thanthi TV
 http://mhdtvworld.xyz@103.199.160.85:80/Content/thanthi/Live/Channel(Thanthi)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Polimer News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Polimer News
 http://mhdtvworld.xyz@103.199.160.85:80/Content/polimernews/Live/Channel(PolimerNews)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",News 7 Tamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",News 7 Tamil
 http://mhdtvworld.xyz@137.59.85.66:80/Content/news7tamil/Live/Channel(NEWS7TAMIL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Tamilan 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Makkal
 http://mhdtvworld.xyz@137.59.85.66:80/Content/tamilantelevision/Live/Channel(TAMILANTELEVISION)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Kalaingar Seithigal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",PuthiyaThalaimurai
 http://mhdtvworld.xyz@103.199.160.85:80/Content/puthiyathalamurai/Live/Channel(PuthiyaThalamurai)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Vendhar
 http://mhdtvworld.xyz@137.59.85.66:80/Content/vedhar/Live/Channel(VEDHAR)/index.m3u8
@@ -1473,8 +529,10 @@ http://mhdtvworld.xyz@137.59.85.66:80/Content/vedhar/Live/Channel(VEDHAR)/index.
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Murasu TV
+http://103.199.160.85:80/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Murasu TV Link 2
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Yupp Thirai Tamil
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Yupp Thirai Tamil Link 2
@@ -1497,7 +555,7 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",IBC Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",IBC Pagadi Link 2
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 
 
@@ -1917,12 +975,14 @@ https://utube.arapurayil.com/stream/UCsfh2Zb7-m4qzT8jLhK_Fzw/master.m3u8
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",MN music
+rtmp://mntv.livebox.co.in:1935/music/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working,MN Music Link 2
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="803" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",TUNE 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1 tvg-id="803" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",TUNE 6 480p
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",Salem Mirchi
 http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",Sigaram TV
@@ -2393,8 +1453,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_48
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",& PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="762" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Sony PIX HD
