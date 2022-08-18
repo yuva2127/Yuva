@@ -81,25 +81,89 @@ http://0nelivezer0.rbtvnw.com:21190/vulcan/chuttitv/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL" tvg-logo="" group-title="REDCLIENT HD",ZEE TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAYA MAX" tvg-logo="" group-title="REDCLIENT HD",JAYA MAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Jaya Max RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAJ DIGITAL" tvg-logo="" group-title="REDCLIENT HD",RAJ DIGITAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Raj Digital Plus RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS TAMIL HD" tvg-logo="" group-title="REDCLIENT HD",COLORS TAMIL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colors Tamil HD RedClient
 http://31.172.87.56:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="REDCLIENT HD",KTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MUSIC HD" tvg-logo="" group-title="REDCLIENT HD",SUN MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music HD RedClient
 http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY SUPER" tvg-logo="" group-title="REDCLIENT HD",STAR VIJAY SUPER
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music HD Link 2 RedClient
+http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD" tvg-logo="" group-title="REDCLIENT HD",STAR VIJAY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay Super Link 2 RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay RedClient
 http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD" tvg-logo="" group-title="REDCLIENT HD",SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD RedClient
 http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chutti TV tamil RedClient
+http://31.172.87.52:2200/R-EX/KIDS_Chutti_TV_HD-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chutti TV tamil Link 2 RedClient
+http://31.172.87.52:2200/R-EX/KIDS_Chutti_TV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Disney TV RedClient
+http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Disney TV Link 2 RedClient
+http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Hungama TV RedClient
+http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Hungama TV Link 2 RedClient
+http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Nick RedClient
+http://31.172.87.55:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Nick Link 2 RedClient
+http://31.172.87.55:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Pogo RedClient
+http://31.172.87.52:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Pogo Link 2 RedClient
+http://31.172.87.52:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Cartoon Network RedClient
+http://31.172.87.37:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_IP6e2AoUn-SZvPzMhO448w%3D%3D%2C1657887688.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Cartoon Network Link 2 RedClient
+http://31.172.87.37:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay HD RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay HD RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Vijay super RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",Sun Music HD RedClient
+http://31.172.87.56:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD Link 2 RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Zee Tamil HD Link 2 RedClient
+http://31.172.87.55:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colours Tamil HD RedClient
+http://31.172.87.52:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Colours Tamil HD Link 2 RedClient
+http://31.172.87.52:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD RedClient
+http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 2 RedClient
+http://31.172.87.56:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Sports",Star Sports 1 Tamil RedClient
+http://31.172.87.56:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED__WMSgys8BM4x7y0kBS-WIA%3D%3D%2C1658116859.9659699029=%7CUser-agent=REDLINECLIENT
+
+
+
+
+
+
 
 
 
@@ -1443,6 +1507,10 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",3 Tamil TV Link 2	
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Arunai TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Amma TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",KRP TV
 http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",KRP TV Link 2
@@ -1665,6 +1733,8 @@ http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",MON TAMIL TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",MON TAMIL TV Link 2
+http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Jawahar tv
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",RCN TV

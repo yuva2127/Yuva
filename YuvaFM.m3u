@@ -51,3 +51,15 @@ https://psrlive1.listenon.in/spb?station=spbradio
 https://psrlive1.listenon.in/ysr?station=ysrradio 
 #EXTINF:-1 group-title="Tamil FM",Harris Radio
 https://psrlive1.listenon.in/hjr?station=harrishjeyarajradio 
+#EXTINF:-1 group-title="Tamil FM",TAMIL 89.4 FM
+https://node-04.zeno.fm/gp5k6qs1bg0uv?rj-ttl=5&rj-tok=AAABda1ZHd8AhWIbKUvvMeGBew
+#EXTINF:-1 group-title="Tamil FM",TAMIL 106.5 FM
+https://livessl.rcast.net/stream/66462.mp3 
+#EXTINF:-1 group-title="Tamil FM",HELLO FM
+https://livessl.rcast.net/stream/66462.mp3
+#EXTINF:-1 group-title="Tamil FM",KODAI FM
+http://node-30.zeno.fm/urvp16bqnd0uv
+#EXTINF:-1 group-title="Tamil FM",TAMIL RADIO MIRCHI FM
+https://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8
+#EXTINF:-1 group-title="Tamil FM",Ullasam FM
+httpS://stream.zeno.fm/ak6km39gg0quv
