@@ -1459,7 +1459,18 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies RFTV JIO TV
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select
+http://103.179.246.243:8000/play/a00w
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Link 2
+https://bit.ly/3K8B5WU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select
+https://bit.ly/3c10llf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Movies Now HD
+https://bit.ly/3Py3dDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MNX
+https://bit.ly/3we0UPk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MN+
+https://bit.ly/3QyWSJG
 
 
 
@@ -1585,160 +1596,188 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Yuva Jio Thinkpad Localhost only",Zee Tamil HD Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-zeetamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Vendhar TV Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Makkal TV Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-makkaltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",DD Podhigai Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Zee Thirai Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",&Flix HD Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Zee Cinema HD Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",&Pictures HD Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Polimer News Zee5
+http://192.168.1.4:8080/Zee5/api.php?c=0-9-203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Sony Pix HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Sony_Pix_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Sony_Pix_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Jaya Max
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Jaya_Max
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Jaya_Max
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Tunes 6
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Tunes_6
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Tunes_6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",MK Tunes
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=MK_Music
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=MK_Music
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Raj Musix
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Raj_Musix
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Raj_Musix
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Kalaingar
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Kalaignar_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Kalaignar_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Colors Tamil HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Colors_Tamil_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Colors_Tamil_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Jaya TV HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Jaya_TV_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Jaya_TV_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",MK TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=MK_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=MK_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Polimer TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Polimer_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Polimer_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Makkal TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Makkal_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Makkal_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Captain tv
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Captain_tv
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Captain_tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Vendhar TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Vendhar_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Vendhar_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Vasanth TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Vasanth_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Vasanth_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Zee Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Zee_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Zee_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Raj TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Raj_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Raj_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Peppers TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Peppers_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Peppers_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Puthu Yugam
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Puthu_Yugam
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Puthu_Yugam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Moon TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Moon_Tv
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Moon_Tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Win TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Win_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Win_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",J Movies
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=J_Movies
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=J_Movies
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Raj Digital Plus
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Raj_Digital_Plus
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Raj_Digital_Plus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Colors Infinity
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Colors_Infinity_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Colors_Infinity_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Jio Cricket HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Jio_Cricket
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Jio_Cricket
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Jio Cricket English HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Jio_Cricket_English
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Jio_Cricket_English
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",And Pictures HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=And_Pictures_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=And_Pictures_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Zee Cinema
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Zee_Cinema
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Zee_Cinema
 #EXTINF:-1 tvg-id="ts208" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Times Now World
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Times_Now_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Times_Now_HD
 #EXTINF:-1 tvg-id="ts208" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",NDTV 24x7
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=NDTV_24x7
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=NDTV_24x7
 #EXTINF:-1 tvg-id="ts547" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Times Now
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Times_NOW
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Times_NOW
 #EXTINF:-1 tvg-id="ts243" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",CNN News 18
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=CNN_NEWS_18
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=CNN_NEWS_18
 #EXTINF:-1 tvg-id="ts208" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",NDTV Profit
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=NDTV_Profit
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=NDTV_Profit
 #EXTINF:-1 tvg-id="ts243" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",CNBC TV18
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=CNBC_Tv18_Prime_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=CNBC_Tv18_Prime_HD
 #EXTINF:-1 tvg-id="830" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Thanthi TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Thanthi_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Thanthi_TV
 #EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Polimer News
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Polimer_News
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Polimer_News
 #EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Malai Murasu
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Malai_Murasu
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Malai_Murasu
 #EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Raj News 24x7
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Raj_News_24x7
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Raj_News_24x7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",News7 Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=News7_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=News7_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",News 18 Tamilnadu
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=News_18_Tamilnadu
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=News_18_Tamilnadu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Jaya Plus
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Jaya_Plus
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Jaya_Plus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Kalaignar Seithigal
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Kalaignar_Seithigal_
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Kalaignar_Seithigal_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Malai Murasu
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Malai_Murasu
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Malai_Murasu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Thanthi TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Thanthi_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Thanthi_TV
 #EXTINF:-1 tvg-id="ts220" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Puthiya Thalimurai
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Puthiya_Thalimurai
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Puthiya_Thalimurai
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Hoopla Kidz TV
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Hoopla_Kids_TV
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Hoopla_Kids_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Nick HD+
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Nick_HD_Plus
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Nick_HD_Plus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",CN HD+ English
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=CN_HD_English
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=CN_HD_English
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Dreamworks
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Dreamworks
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Dreamworks
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Highbrow
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Highbrow
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Highbrow
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",ZooMoo HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=ZooMoo_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=ZooMoo_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Nick Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Nick_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Nick_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Pogo Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Pogo_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Pogo_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Cartoon Network Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Cartoon_Network_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Cartoon_Network_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",CN HD+ Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=CN_HD_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=CN_HD_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Sonic Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=sonic_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=sonic_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Discovery Kids Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Discovery_Kids_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Discovery_Kids_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Sony Yay Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Sony_Yay_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Sony_Yay_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Travel XP Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Travel_XP_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Travel_XP_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Discovery Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Discovery_Channel_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Discovery_Channel_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",History 18 Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=History_18_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=History_18_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Sony BBC Earth HD Tamil
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Sony_BBC_Earth_HD_Tamil
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Sony_BBC_Earth_HD_Tamil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Animal Planet HD World
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Animal_Planet_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Animal_Planet_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Animal Planet English
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Animal_Planet_English
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Animal_Planet_English
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Discovery
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Discovery
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Discovery
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Travel XP HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Travel_XP_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Travel_XP_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Discovery Science
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Discovery_Science
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Discovery_Science
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Discovery HD World
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Discovery_HD_World
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Discovery_HD_World
 #EXTINF:-1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Yuva Jio Thinkpad Localhost only",India Science
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=India_Science
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=India_Science
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",Sony BBC Earth HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=Sony_BBC_Earth_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=Sony_BBC_Earth_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",History TV18 HD
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=History_HD
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=History_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Thinkpad Localhost only",TLC 
-http://192.168.1.2:8080/YuvaJio/autoq.php?c=TLC_HD_World
+http://192.168.1.4:8080/YuvaJio/autoq.php?c=TLC_HD_World
 
 
 
 
-
-
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Yuva Jio Moto Localhost only",Zee Tamil HD Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-zeetamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Vendhar TV Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Makkal TV Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-makkaltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",DD Podhigai Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Zee Thirai Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",&Flix HD Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Zee Cinema HD Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",&Pictures HD Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ts509" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Polimer News Zee5
+http://192.168.1.3:8080/Zee5/api.php?c=0-9-203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Sony Pix HD
 http://192.168.1.3:8080/YuvaJio/autoq.php?c=Sony_Pix_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",Jaya Max
@@ -1881,6 +1920,10 @@ http://192.168.1.3:8080/YuvaJio/autoq.php?c=Sony_BBC_Earth_HD
 http://192.168.1.3:8080/YuvaJio/autoq.php?c=History_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Jio Moto Localhost only",TLC 
 http://192.168.1.3:8080/YuvaJio/autoq.php?c=TLC_HD_World
+
+
+
+
 
 
 
