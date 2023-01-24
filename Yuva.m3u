@@ -50,76 +50,31 @@ http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Vinayaga Music
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV 
-http://sunnxt.live/app/master.php?proxy=true&id=32138&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD
-http://sunnxt.live/app/master.php?proxy=true&id=26566&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV
-http://sunnxt.live/app/master.php?proxy=true&id=9016&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD 
-http://sunnxt.live/app/master.php?proxy=true&id=14020&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life 
-http://sunnxt.live/app/master.php?proxy=true&id=26569&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Sun News 
-http://sunnxt.live/app/master.php?proxy=true&id=38926&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chutti TV 
-http://sunnxt.live/app/master.php?proxy=true&id=26567&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",Adithya TV 
-http://sunnxt.live/app/master.php?proxy=true&id=9023&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music 
-http://sunnxt.live/app/master.php?proxy=true&id=9025&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music HD 
-http://sunnxt.live/app/master.php?proxy=true&id=9013&e=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=32138&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Movies",KTV HD
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=26566&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=9016&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=14020&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun Life 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=26569&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil News",Sun News 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=38926&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Kids",Chutti TV 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=26567&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",Adithya TV 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=9023&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=9025&proxy=true&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Music",Sun Music HD 
-http://tamilsettai.fun/snxt/app/sunbox.php?proxy=true&id=9013&proxy=true&e=.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV 
+http://qxtv.alwaysdata.net/utv.php?id=6692&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 1
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KVtzSdfYEKDb7cwhCeiElMJ7YhrD75a4B8sPUxZ4AV4kpAGoLv8o-bmvVDEHJk99P0?ext=.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 2
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KWrz9MujK4ORfhrtO_XvVYPnl7V80uGKFUx_KqaHdUsg-FZ9NWsrJIJaOtdcBQPI9g?ext=.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 3
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KUmuFoP2Qhn9Uo7x4YSUssOVIXg0uwyXD9g6BHVey2SlgHekPo8NUJlZ5zrAGhUFz8?ext=.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV HD Link 4
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KU7_GPxwYlRUohQo_VQozzWgkVYn4ic7kkiLUpBH29BWrTabPamhk3nq4-GUSIqKA0?ext=.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Comedy",Adithya
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-MExjg3THpNHzWRDYXT2f78KUB32auDDD-DYNuj9OFUwOYCvzU8ITfm4bozK40YQAKaW2AHvfZ14euOswzaqQReCE?ext=.ts
 
 
 
-#EXTINF:-1 tvg-id="sun32138" tvg-name="KTV {SNXT}" tvg-logo="https://sund-images.sunnxt.com/32138/300x300_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Tamil Movies",KTV 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=32138&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun26566" tvg-name="KTV HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil Movies",KTV HD
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=26566&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun9016" tvg-name="Sun TV {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9016/300x300_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Tamil Regular",Sun TV
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=9016&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun14020" tvg-name="Sun TV HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil Regular",Sun TV HD
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=14020&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun26569" tvg-name="Sun Life {SNXT}" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Tamil Regular",Sun Life 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=26569&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun38926" tvg-name="Sun News {SNXT}" tvg-logo="https://sund-images.sunnxt.com/38926/300x300_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="Tamil News",Sun News 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=38926&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun26567" tvg-name="Chutti TV {SNXT}" tvg-logo="https://sund-images.sunnxt.com/26567/300x300_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Tamil Kids",Chutti TV 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=26567&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun9023" tvg-name="Adithya TV {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9023/300x300_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Tamil Comedy",Adithya TV 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=9023&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun9025" tvg-name="Sun Music {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9025/300x300_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Tamil Music",Sun Music 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=9025&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
-#EXTINF:-1 tvg-id="sun9013" tvg-name="Sun Music HD {SNXT}" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil Music",Sun Music HD 
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=9013&token=ZTFnZjNjcTIxZTFnZjNjcTI2ZTFnZjNjcTI3ZTFnZjNjcTJlMWdmM2NxMmUxZ2YzY3EyMWUxZ2YzY3EyOGUxZ2YzY3EyMWUxZ2YzY3EyMGUxZ2YzY3EyNWUxZ2YzY3EyMg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Sun TV Buffer
+http://hostengine.live:25461/MLc6c8Lrvb/JQT2s6mDpR/69325
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",K TV Buffer
+http://hostengine.live:25461/MLc6c8Lrvb/JQT2s6mDpR/69301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Regular",Star Vijay Buffer
+http://hostengine.live:25461/MLc6c8Lrvb/JQT2s6mDpR/69324
 
 
 
@@ -387,9 +342,8 @@ https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Black Sheep TV
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Thalapathy TV
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil Local",Rainbow  TV
@@ -2089,11 +2043,12 @@ http://new.7starcloud.com:1935/king/live/playlist.m3u8
 http://new.7starcloud.com:1935/itv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",Digital TV
 rtmp://bmlive.net:1935/digitaltv/digitaltv
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",IBC Comedy
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Not Working",IBC Kids Tamil
+https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
 
 
 
